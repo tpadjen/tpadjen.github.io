@@ -1,13 +1,12 @@
 # Permalinks
 #
 # Use of `relative_permalinks` ensures post links from the index work properly.
-permalink:           pretty
+permalink:           /:title
 relative_permalinks: true
 
 # Setup
-title:               Poole
-tagline:             The Jekyll Butler
-url:                 http://getpoole.com
+title:               Padjenation
+url:                 http://padjenation.com
 paginate:            1
 baseurl:             ""
 
@@ -20,11 +19,16 @@ sass:
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              Tim Padjen
+  url:               https://twitter.com/tpadjen
+  email:             tpadjen@gmail.com
 
 # Custom vars
 version:             2.0.0
 github:
-  repo:              https://github.com/poole/poole
+  repo:              https://github.com/tpadjen/padjenation
+
+header_pages:
+  About: '/about'
+  Archive: '/archive'
+  Feed: '/atom.xml'
