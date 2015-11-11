@@ -2,25 +2,96 @@
 //
 // Super small header above the content for site name and short description.
 
+.masthead.container {
+  padding-top: 3.5%;
+}
+
+.masthead-bg {
+  background-image: url('public/img/stars/stars3.jpg');
+  width: 100%;
+  display: inline-block;
+  position: relative;
+  background-size: cover;
+  margin: 0 auto 20px auto;
+}
+
+.masthead-bg:after {
+  padding-top: 18%;
+  display: block;
+  content: '';
+}
+
 .masthead {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  left: 0;
   padding-top:    1rem;
   padding-bottom: 1rem;
-  margin-bottom: 3rem;
+  // margin-bottom: 3rem;
 }
 
 .masthead-title {
   margin-top: 0;
   margin-bottom: 0;
-  color: #505050;
+  // color: #505050;
+  color: white;
+  font-size: 1.6rem;
+  position: relative;
 
   a {
-    color: #505050;
+    // color: #505050;
+    color: white;
   }
 
   small {
-    font-size: 75%;
+    font-size: 0.9rem;
     font-weight: 400;
     color: #c0c0c0;
     letter-spacing: 0;
   }
+}
+
+.pages {
+  float: right;
+}
+
+@media (min-width: 48em) {
+
+  .masthead.container {
+    padding-top: 4%;
+  }
+
+  .masthead-title {
+    font-size: 2.0rem;
+
+    small {
+      font-size: 1.2rem;
+    }
+  }
+  
+}
+
+@media (min-width: 62em) { 
+  
+  .masthead-bg {
+    margin-bottom: 30px;
+  }
+
+  .masthead.container {
+    // padding-top: 4.8%;
+    padding-left: 0rem;
+    padding-right: 0rem;
+    max-width: 48rem;
+  }
+
+  .masthead-title {
+    font-size: 2.4rem;
+
+    small {
+      font-size: 1.333rem;
+    }
+  }
+
 }

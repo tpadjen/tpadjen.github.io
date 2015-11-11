@@ -5,13 +5,21 @@
 
   <body>
 
-    <div class="container content">
-      <header class="masthead">
+    <div class="masthead-bg">
+      <header class="masthead container">
         <h3 class="masthead-title">
           <a href="{{ site.baseurl }}/" title="Home">{{ site.title }}</a>
           <small>{{ site.tagline }}</small>
+          <div class="pages">
+            {% for page in site.header_pages %}
+              <small><a href="{{page[1]}}">{{page[0]}}</a></small>
+            {% endfor %}
+          </div>
         </h3>
-      </header>
+    
+        </header>
+    </div>
+    <div class="container content">
 
       <main>
         {{ content }}
