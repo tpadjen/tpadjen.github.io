@@ -1,0 +1,52 @@
+require 'fileutils'
+require 'colorize'
+
+class String
+
+  def slugify
+    downcase.strip.gsub(' ', '-').gsub(/[^\w-]/, '')
+  end
+
+end
+
+desc "Create a new draft for post/entry"
+task :draft do
+  puts "What's the title for your next post?"
+  title = STDIN.gets.chomp
+  filename = "_drafts/#{title.slugify}.md"
+  FileUtils.touch(filename)
+  open(filename, 'a' ) do |file|
+    file.puts "---"
+    file.puts "layout: post"
+    file.puts "title: #{title}"
+    file.puts "description: maximum 155 char description"
+    file.puts "category: blog"
+    file.puts "tag: blog"
+    file.puts "---"
+    file.puts
+  end
+  puts "Created #{filename}".green
+end
+
+desc "Make a draft published"
+task :publish do
+  if ARGV.length == 1
+    puts "Please add the path to the draft post you want to publish".yellow
+    puts "\nExample:"
+    puts "\n\trake publish _drafts/my-blog-post.md\n\n"
+  else
+    draft_path = ARGV[1]
+    task draft_path.to_sym do ; end # no-op rake task for file argument
+
+    if File.exist?(draft_path)
+      draft = draft_path.gsub('_drafts/', '')
+      post_date = Time.now.strftime("%F")
+      FileUtils.mv("_drafts/#{draft}", "_posts/#{post_date}-#{draft}")
+      puts "Published #{draft}".green
+      puts draft.to_sym  
+    else
+      puts "#{draft_path} not found".red
+    end
+    
+  end
+end
