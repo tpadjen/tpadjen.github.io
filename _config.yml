@@ -3,9 +3,7 @@ markdown: redcarpet
 
 # Permalinks
 #
-# Use of `relative_permalinks` ensures post links from the index work properly.
 permalink:           /:title
-relative_permalinks: true
 
 # Setup
 title:               Brace Yourself
@@ -31,7 +29,9 @@ version:             2.0.0
 github:
   repo:              https://github.com/tpadjen/padjenation
 
+include: ['_pages']
+
 header_pages:
-  About: '/about'
-  Archive: '/archive'
+  About: '/about/'
+  Archive: '/archive/'
   Feed: '/atom.xml'
