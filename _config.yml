@@ -8,7 +8,7 @@ permalink:           /:title
 relative_permalinks: true
 
 # Setup
-title:               Padjenation
+title:               Brace Yourself
 url:                 http://padjenation.com
 paginate:            1
 baseurl:             ""

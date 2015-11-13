@@ -8,7 +8,7 @@
     <div class="masthead-bg">
       <header class="masthead container">
         <h3 class="masthead-title">
-          <a href="{{ site.baseurl }}/" title="Home">{{ site.title }}</a>
+          <a href="{{ site.baseurl }}/" title="Home" class=typed>{<span class="title"></span>}</a>
           <small>{{ site.tagline }}</small>
           <div class="pages">
             {% for page in site.header_pages %}
@@ -20,7 +20,6 @@
         </header>
     </div>
     <div class="container content">
-
       <main>
         {{ content }}
       </main>
