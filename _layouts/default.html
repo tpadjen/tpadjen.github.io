@@ -3,7 +3,7 @@
 
   {% include head.html %}
 
-  <body>
+  <body ng-app="BraceYourself" ng-controller="SearchCtrl" ng-click="searching = false">
 
     <div class="masthead-bg">
       <header class="masthead container">
@@ -13,7 +13,23 @@
             {% for page in site.header_pages %}
               <h4><a href="{{page[1]}}">{{page[0]}}</a></h4>
             {% endfor %}
+            <h4 ng-cloak><i class="fa fa-search" ng-click="toggleSearch($event)"></i></h4>
           </div>
+        </div>
+        <div ng-cloak class="search-popup" ng-if="searching" ng-click="preventClose($event)">
+          <div class="input">
+            <span class="label">Search:</span><input type="text" 
+                   class="search" 
+                   ng-model="query">
+          </div>
+          <hr>
+          <ul class="search-list">
+            <li ng-repeat="post in posts | filter:query ">
+              <a class="title" href="{% raw %}{{ post.url }}{% endraw %}" ng-bind="post.title"></a>
+              <br>
+              <date ng-bind="post.date"></date>
+            </li>
+          </ul>
         </div>
       </header>
     </div>

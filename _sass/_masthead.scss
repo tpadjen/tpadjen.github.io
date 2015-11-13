@@ -118,3 +118,49 @@
   }
 
 }
+
+.search-popup {
+  position: absolute;
+  padding: 20px 30px;
+  right: 10px;
+  z-index: 100;
+  background: white;
+  border-radius: 6px;
+  border: 1px solid #aaa;
+  width: 360px;
+
+  hr {
+    clear: both;
+  }
+
+  .input {
+    float: right;
+    padding-bottom: 20px;
+
+    .label {
+      padding-right: 12px;
+    }
+
+    input {
+      width: 200px;
+      padding: 4px;
+      font-size: 1.2rem;
+      line-height: 1.4rem;
+    }
+  }
+
+  .search-list {
+    list-style: none;
+    -webkit-padding-start: 0;
+
+    li {
+      clear: both;
+    }
+
+    date {
+      float: right;
+      padding-bottom: 4px;
+    }
+
+  }
+}
