@@ -9,6 +9,11 @@ class String
 
 end
 
+desc "Build with drafts & watch for changes with live reload"
+task :dev do
+  `jekyll serve --drafts & live-server ./_site`
+end
+
 desc "Create a new draft for post/entry"
 task :draft do
   puts "What's the title for your next post?"
