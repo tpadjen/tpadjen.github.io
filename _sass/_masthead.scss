@@ -39,36 +39,54 @@
   color: white;
   font-size: 1.6rem;
   position: relative;
+  
+  display: inline-block;
 
   a {
     // color: #505050;
     color: white;
   }
-
-  small {
-    font-size: 0.9rem;
-    font-weight: 400;
-    color: #c0c0c0;
-    letter-spacing: 0;
-  }
 }
 
-.pages {
+.masthead .pages {
   float: right;
+  line-height: 1.95rem;
+
+  h4 {
+    font-family: 'Consolas', monospace;
+    color: white;
+    font-size: 0.9rem;
+    font-weight: 400;
+    letter-spacing: 0;
+    display: inline-block;
+    line-height: 1.25;
+    margin: 0;
+
+    a {
+      color: white;
+    }
+  }
 }
 
 @media (min-width: 48em) {
 
   .masthead.container {
     padding-top: 4%;
+    max-width: 48rem;
   }
 
   .masthead-title {
     font-size: 2.0rem;
 
-    small {
+  }
+
+  .masthead .pages {
+    line-height: 2.5rem;
+    
+    h4 {
       font-size: 1.2rem;
     }
+
   }
   
 }
@@ -83,15 +101,20 @@
     // padding-top: 4.8%;
     padding-left: 0rem;
     padding-right: 0rem;
-    max-width: 48rem;
+    max-width: 52rem;
   }
 
   .masthead-title {
     font-size: 2.4rem;
+  }
 
-    small {
-      font-size: 1.333rem;
+  .masthead .pages {
+    line-height: 3.2rem;
+    
+    h4 {
+      font-size: 1.333333rem;
     }
+
   }
 
 }

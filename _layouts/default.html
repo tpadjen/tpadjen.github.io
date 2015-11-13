@@ -7,17 +7,15 @@
 
     <div class="masthead-bg">
       <header class="masthead container">
-        <h3 class="masthead-title">
-          <a href="{{ site.baseurl }}/" title="Home" class=typed>{<span class="title"></span>}</a>
-          <small>{{ site.tagline }}</small>
+        <div>
+          <h1 class="masthead-title"><a href="{{ site.baseurl }}/" title="Home" class="typed"><span class="title"></span></a></h1>
           <div class="pages">
             {% for page in site.header_pages %}
-              <small><a href="{{page[1]}}">{{page[0]}}</a></small>
+              <h4><a href="{{page[1]}}">{{page[0]}}</a></h4>
             {% endfor %}
           </div>
-        </h3>
-    
-        </header>
+        </div>
+      </header>
     </div>
     <div class="container content">
       <main>

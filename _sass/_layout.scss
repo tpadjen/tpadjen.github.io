@@ -13,3 +13,27 @@
 footer {
   margin-bottom: 2rem;
 }
+
+.masthead h1,
+.masthead h2,
+.masthead h3,
+.masthead h4,
+.masthead h5,
+.masthead h6,
+a.title,
+.post h1,
+.post h2,
+.post h3,
+.post h4,
+.post h5,
+.post h6 {
+  
+  &:before {
+    content: "{"
+  }
+
+  &:after {
+    content: "}"
+  }
+
+}
