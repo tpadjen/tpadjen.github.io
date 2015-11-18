@@ -3,7 +3,7 @@
 // Super small header above the content for site name and short description.
 
 .masthead.container {
-  padding-top: 3.5%;
+  padding-top: 5.5%;
 }
 
 .masthead-bg {
@@ -50,10 +50,10 @@
 
 .masthead .pages {
   float: right;
-  line-height: 1.95rem;
+  line-height: 2.0rem;
 
   h4 {
-    font-family: 'Consolas', monospace;
+    // font-family: 'Consolas', monospace;
     color: white;
     font-size: 0.9rem;
     font-weight: 400;
@@ -81,7 +81,7 @@
   }
 
   .masthead .pages {
-    line-height: 2.5rem;
+    line-height: 2.6rem;
     
     h4 {
       font-size: 1.2rem;
@@ -109,7 +109,7 @@
   }
 
   .masthead .pages {
-    line-height: 3.2rem;
+    line-height: 3.3rem;
     
     h4 {
       font-size: 1.333333rem;

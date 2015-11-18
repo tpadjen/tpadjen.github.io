@@ -27,13 +27,20 @@ a.title,
 .post h4,
 .post h5,
 .post h6 {
+  font-weight: 700;
   
   &:before {
-    content: "{"
+    content: "{";
+    position: relative;
+    top: -0.1rem;
+    padding-right: 0.2rem;
   }
 
   &:after {
-    content: "}"
+    content: "}";
+    position: relative;
+    top: -0.1rem;
+    padding-left: 0.2rem;
   }
 
 }
