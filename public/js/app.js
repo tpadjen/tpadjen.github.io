@@ -12,6 +12,7 @@ $(function(){
 angular.module('BraceYourself', [])
   .controller('SearchCtrl', ['$scope', '$http', '$timeout', function($scope, $http, $timeout) {
     $scope.searching = false;
+    $scope.menuSelected = false;
 
     $http.get('/posts.json').success(function(data) {
       $scope.posts = data.posts;
@@ -20,6 +21,7 @@ angular.module('BraceYourself', [])
     $scope.toggleSearch = function(event) {
       event.stopPropagation();
       $scope.searching = !$scope.searching;
+      $scope.menuSelected = false;
 
       if ($scope.searching) {
         $timeout(function (){
@@ -28,8 +30,19 @@ angular.module('BraceYourself', [])
       }
     };
 
+    $scope.toggleMenu = function(event) {
+      event.stopPropagation();
+      $scope.menuSelected = !$scope.menuSelected;
+      $scope.searching = false;
+    }
+
     $scope.preventClose = function(event) {
       event.stopPropagation();
+    };
+
+    $scope.closeAll = function() {
+      $scope.searching = false;
+      $scope.menuSelected = false;
     };
 
 

@@ -3,7 +3,7 @@
 
   {% include head.html %}
 
-  <body ng-app="BraceYourself" ng-controller="SearchCtrl" ng-click="searching = false">
+  <body ng-app="BraceYourself" ng-controller="SearchCtrl" ng-click="closeAll()">
 
     <div class="masthead-bg">
       <header class="masthead container">
@@ -14,6 +14,15 @@
               <h4><a href="{{page[1]}}">{{page[0]}}</a></h4>
             {% endfor %}
             <h4 ng-cloak><i class="fa fa-search" ng-click="toggleSearch($event)"></i></h4>
+          </div>
+          <div class="menu" ng-click="preventClose($event)">
+            <i class="fa fa-bars" ng-click="toggleMenu($event)"></i>
+            <ul class="dropdown" ng-if="menuSelected">
+              {% for page in site.header_pages %}
+                <li><h2><a href="{{page[1]}}">{{page[0]}}</a></h2></li>
+              {% endfor %}
+              <li><h2 ng-cloak><i class="fa fa-search" ng-click="toggleSearch($event)"></i></h2></li>
+            </ul>
           </div>
         </div>
         <div ng-cloak class="search-popup" ng-if="searching" ng-click="preventClose($event)">
