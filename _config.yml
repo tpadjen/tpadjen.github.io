@@ -27,7 +27,7 @@ author:
 # Custom vars
 version:             2.0.0
 github:
-  repo:              https://github.com/tpadjen/padjenation
+  repo:              https://github.com/tpadjen/tpadjen.github.io
 
 include: ['_pages']
 
