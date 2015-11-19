@@ -10,6 +10,8 @@ My blog
   $ rake dev
   ```
 
+  Must restart if a change is made to _config.yml
+
 * Create a new draft
 
   ```bash
