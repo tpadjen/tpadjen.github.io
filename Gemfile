@@ -1,6 +1,6 @@
 # A sample Gemfile
 source "https://rubygems.org"
 
-gem 'jekyll', '~>2.4'
+gem 'github-pages'
 
 gem 'colorize'
