@@ -14,6 +14,8 @@
               <h4><a href="{{page[1]}}">{{page[0]}}</a></h4>
             {% endfor %}
             <h4 ng-show><a href="/archive/">Archive</a></h4>
+            <h4><a href="{{ site.author.twitter }}"><i class="fa fa-twitter-square"></i></a></h4>
+            <h4><a href="{{ site.author.github }}"><i class="fa fa-github"></i></a></h4>
             <h4 ng-cloak><i class="fa fa-search" ng-click="toggleSearch($event)"></i></h4>
           </div>
           <div class="menu" ng-click="preventClose($event)">
