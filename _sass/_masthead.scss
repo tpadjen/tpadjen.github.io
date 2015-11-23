@@ -61,10 +61,16 @@
     display: inline-block;
     line-height: 1.25;
     margin: 0;
+    padding-left: 0.3333rem;
+    padding-right: 0.3333rem;
 
     a {
       color: white;
     }
+  }
+
+  &:before, &:after {
+    color: white;
   }
 
   display: none;
