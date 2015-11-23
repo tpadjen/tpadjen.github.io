@@ -2,6 +2,14 @@
 
 My blog
 
+## Dev Setup
+
+* Install **optipng** for png image compression
+
+  ```bash
+  $ brew install optipng
+  ```
+
 ## Rake
 
 * Run live updating server

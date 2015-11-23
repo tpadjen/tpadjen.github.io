@@ -55,3 +55,21 @@ task :publish do
     
   end
 end
+
+namespace :png do
+
+  task :list do
+    @pngs = Dir.glob("**/*.png") - Dir.glob("_site/**/*.png")
+  end
+
+  desc "Compress PNG images"
+  task :minimize => :list do
+    @pngs.each do |png|
+      before = File.size png
+      # sh "./bin/pngout #{png} -q | true"
+      sh "optipng -o7 #{png}"
+      puts "#{png} : #{before - File.size(png)} bytes smaller "
+    end
+  end
+
+end
