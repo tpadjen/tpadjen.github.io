@@ -56,6 +56,12 @@ task :publish do
   end
 end
 
+desc "Optimize jpg and png images"
+task :opt_img do
+  Rake::Task['jpg:minimize'].invoke
+  Rake::Task['png:minimize'].invoke
+end
+
 namespace :jpg do
 
   task :list do
