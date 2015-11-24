@@ -39,6 +39,7 @@
             <li ng-repeat="post in posts | filter:query ">
               <a class="title" href="{% raw %}{{ post.url }}{% endraw %}" ng-bind="post.title"></a>
               <br>
+              <span class="tag" ng-repeat="tag in post.tags">{% raw %}{{tag}}{% endraw %}</span>
               <date ng-bind="post.date"></date>
             </li>
           </ul>
