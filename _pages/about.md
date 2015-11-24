@@ -2,6 +2,7 @@
 layout: page
 title: About
 permalink: "/about/"
+description: About BraceYourself
 ---
 
 > This is my

@@ -2,6 +2,7 @@
 layout: page
 title: Archive
 permalink: "/archive/"
+description: List of all posts
 ---
 
 ## Blog Posts
