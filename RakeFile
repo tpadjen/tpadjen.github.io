@@ -56,6 +56,21 @@ task :publish do
   end
 end
 
+namespace :jpg do
+
+  task :list do
+    @jpgs = Dir.glob("**/*.{jpg,jpeg}") - Dir.glob("_site/**/*.{jpg,jpeg}")
+  end
+
+  desc "Compress JPEG images"
+  task :minimize => :list do
+    @jpgs.each do |f|
+      sh "jpegoptim --strip-all --totals -o '#{f}'"
+    end
+  end
+  
+end
+
 namespace :png do
 
   task :list do

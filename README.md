@@ -4,10 +4,10 @@ My blog
 
 ## Dev Setup
 
-* Install **optipng** for png image compression
+* Install **jpegoptim** and **optipng** for image compression
 
   ```bash
-  $ brew install optipng
+  $ brew install jpegoptim optipng
   ```
 
 ## Rake
