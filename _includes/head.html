@@ -20,6 +20,9 @@
       {{ page.title }} &middot; {{ site.title }}
     {% endif %}
   </title>
+  {% if page.description %}
+    <meta name="description" content="{{ page.description }}">
+  {% endif %}
 
   <!-- CSS -->
   <link href='https://fonts.googleapis.com/css?family=Inconsolata:400,700' rel='stylesheet' type='text/css'>
