@@ -32,22 +32,6 @@ HTML defines a long list of available inline tags, a complete list of which can 
 
 Most of these elements are styled by browsers with few modifications on our part.
 
-## Footnotes
-
-Footnotes are supported as part of the Markdown syntax. Here's one in action. Clicking this number[^fn-sample_footnote] will lead you to a footnote. The syntax looks like:
-
-```
-Clicking this number[^fn-sample_footnote]
-```
-
-Each footnote needs the `^fn-` prefix and a unique ID to be referenced for the footnoted content. The syntax for that list looks something like this:
-
-```
-[^fn-sample_footnote]: Handy! Now click the return link to go back.
-```
-
-You can place the footnoted content wherever you like. Markdown parsers should properly place it at the bottom of the post.
-
 ## Heading
 
 Vivamus sagittis lacus vel augue rutrum faucibus dolor auctor. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
@@ -170,5 +154,3 @@ Nullam id dolor id nibh ultricies vehicula ut id elit. Sed posuere consectetur e
 -----
 
 Want to see something else added? <a href="https://github.com/poole/poole/issues/new">Open an issue.</a>
-
-[^fn-sample_footnote]: Handy! Now click the return link to go back.
