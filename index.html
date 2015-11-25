@@ -5,7 +5,7 @@ title: Home
 
 <div class="posts">
   {% for post in paginator.posts %}
-  <article class="post">
+  <article class="post excerpt">
     <h1 class="post-title"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
     <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">{{ post.date | date: "%B %-d, %Y" }}</time>
     <div class="tags">
@@ -13,8 +13,9 @@ title: Home
         <span class="tag">{{ tag }}</span>
       {% endfor %}
     </div>
-
-    {{ post.content }}
+    {{ post.excerpt }}
+    <a href="{{ site.baseurl }}{{ post.url }}">Read the rest of this article >></a>
+    {% unless forloop.last %}<hr>{% endunless %}
   </article>
   {% endfor %}
 </div>

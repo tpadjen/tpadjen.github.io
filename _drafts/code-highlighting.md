@@ -14,6 +14,8 @@ def foo
 end
 ```
 
+<span id="excerpt"></span>
+
 ## New Section
 
 ### New Subsection
