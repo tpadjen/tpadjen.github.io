@@ -3,7 +3,7 @@
 // Super small header above the content for site name and short description.
 
 .masthead.container {
-  padding-top: 5.5%;
+  padding-top: 3.333%;
 }
 
 .masthead-bg {
@@ -11,12 +11,12 @@
   width: 100%;
   display: inline-block;
   position: relative;
-  background-size: cover;
+  background-size: 100% 100%;
   margin: 0 auto 20px auto;
 }
 
 .masthead-bg:after {
-  padding-top: 18%;
+  padding-top: 13%;
   display: block;
   content: '';
 }
@@ -37,7 +37,7 @@
   margin-bottom: 0;
   // color: #505050;
   color: white;
-  font-size: 1.6rem;
+  font-size: 1.2rem;
   position: relative;
   
   display: inline-block;
@@ -80,8 +80,9 @@
   display: inline-block;
   float: right;
   font-size: 1.8rem;
-  line-height: 1.2;
+  line-height: 1.0;
   position: relative;
+  top: -2px;
 
 
   .fa-bars {
@@ -170,6 +171,23 @@
   cursor: pointer;
 }
 
+@media (max-width: 320px) {
+  .masthead.container {
+    padding-top: 2.0%;
+  }
+}
+
+@media (min-width: 32em) {
+  .masthead-title {
+    font-size: 1.6rem;
+  }
+
+  .masthead .menu {
+    line-height: 1.6rem;
+    top: 4px;
+  }
+}
+
 @media (min-width: 48em) {
   .masthead .pages {
     display: inline-block;
@@ -181,7 +199,7 @@
 
 
   .masthead.container {
-    padding-top: 4%;
+    padding-top: 2.5%;
     max-width: 48rem;
   }
 
