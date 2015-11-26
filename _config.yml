@@ -10,7 +10,6 @@ permalink:           /:title
 # Setup
 title:               Brace Yourself
 url:                 https://braceyourself.io
-enforce_ssl:         braceyourself.com 
 paginate:            10
 baseurl:             ""
 excerpt_separator: <span id="excerpt"></span>
