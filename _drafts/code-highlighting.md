@@ -8,11 +8,11 @@ tag: blog
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis dignissimos laudantium itaque placeat aspernatur fugiat illo aut maxime. Quo, voluptatem illo porro, est cum dolorum tempora facere sed autem accusamus!
 
-```ruby
+{% highlight ruby linenos %}
 def foo
   puts "Hello World!"
 end
-```
+{% endhighlight %}
 
 <span id="excerpt"></span>
 

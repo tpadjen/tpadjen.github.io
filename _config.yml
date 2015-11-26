@@ -1,5 +1,7 @@
 # Jekyll
-markdown: redcarpet
+markdown: kramdown
+kramdown:
+  input: GFM
 
 # Permalinks
 #
