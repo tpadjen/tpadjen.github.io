@@ -31,7 +31,7 @@ angular.module('BraceYourself', [])
     };
 
     $scope.toggleMenu = function(event) {
-      event.stopPropagation();
+      if (event) event.stopPropagation();
       $scope.menuSelected = !$scope.menuSelected;
       $scope.searching = false;
     }
@@ -43,6 +43,12 @@ angular.module('BraceYourself', [])
     $scope.closeAll = function() {
       $scope.searching = false;
       $scope.menuSelected = false;
+    };
+
+    $scope.keyup = function(event) {
+      if (event.keyCode == 27) { // escape pressed
+        $scope.toggleMenu(null);
+      }
     };
 
 

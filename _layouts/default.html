@@ -32,7 +32,8 @@
           <div class="input">
             <span class="label">Search:</span><input type="text" 
                    class="search" 
-                   ng-model="query">
+                   ng-model="query"
+                   ng-keyup="keyup($event)">
           </div>
           <hr>
           <ul class="search-list">
