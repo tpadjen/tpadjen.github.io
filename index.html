@@ -10,7 +10,7 @@ title: Home
     <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">{{ post.date | date: "%B %-d, %Y" }}</time>
     <div class="tags">
       {% for tag in post.tags %}
-        <span class="tag">{{ tag }}</span>
+        <span class="tag" ng-click="searchFor($event, '{{ tag }}')">{{ tag }}</span>
       {% endfor %}
     </div>
     {{ post.excerpt }}

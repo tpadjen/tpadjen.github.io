@@ -3,6 +3,12 @@
   margin-right: 0.5rem;
   padding: 0.2rem 0.4rem;
   border-radius: 2px;
+  cursor: pointer;
+
+  &:hover {
+    background: #888;
+    color: white;
+  }
 }
 
 .tags {

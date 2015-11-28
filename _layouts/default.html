@@ -32,15 +32,20 @@
           <div class="input">
             <span class="label">Search:</span><input type="text" 
                    class="search" 
-                   ng-model="query"
+                   ng-model="search.query"
                    ng-keyup="keyup($event)">
           </div>
           <hr>
           <ul class="search-list">
-            <li ng-repeat="post in posts | filter:query ">
+            <li ng-repeat="post in posts | filter:search.query ">
               <a class="title" href="{% raw %}{{ post.url }}{% endraw %}" ng-bind="post.title"></a>
               <br>
-              <span class="tag" ng-repeat="tag in post.tags">{% raw %}{{tag}}{% endraw %}</span>
+              <span 
+                class="tag"
+                ng-repeat="tag in post.tags"
+                ng-click="searchFor($event, tag)"
+                ng-bind="tag"
+              ></span>
               <date ng-bind="post.short_date"></date>
             </li>
           </ul>

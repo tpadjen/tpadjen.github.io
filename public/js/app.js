@@ -51,5 +51,19 @@ angular.module('BraceYourself', [])
       }
     };
 
+    $scope.searchFor = function(event, term) {
+      event.stopPropagation();
+      $scope.searching = true;
+      $scope.menuSelected = false;
+    
+      $scope.search = {
+        query: term
+      };
+
+      $timeout(function (){
+        angular.element('.search-popup input').trigger('focus');
+      });
+    }
+
 
   }]);
