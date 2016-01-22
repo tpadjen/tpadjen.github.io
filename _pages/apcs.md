@@ -6,6 +6,7 @@ description: APCS BraceYourself AP Computer Science
 ---
 
 > A common mistake people make when trying to design something completely foolproof is to underestimate the ingenuity of complete fools.
+>
 > &mdash; <cite>Douglas Adams</cite>
 
 # Assignments
