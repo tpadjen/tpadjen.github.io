@@ -1,7 +1,7 @@
 # Jekyll
 markdown: kramdown
-kramdown:
-  input: GFM
+# kramdown:
+#   input: GFM
 
 # Permalinks
 #
