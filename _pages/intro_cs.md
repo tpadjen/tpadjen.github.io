@@ -9,6 +9,10 @@ description: Intro CS BraceYourself Computer Science
 >
 > &mdash; <cite>Pablo Picasso</cite>
 
+# Portfolio
+  * [Live Example](http://mvhs-introcs.github.io/portfolio)
+  * [Example Code](https://github.com/mvhs-introcs/portfolio)
+
 # Resources
 
 ## HTML
