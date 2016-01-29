@@ -9,6 +9,8 @@ description: MM1 BraceYourself Multimedia 1
 >
 > &mdash; <cite>Kurt Vonnegut</cite>
 
-## [Daily Blog Post](/mm1/blog_post)
+## [Daily Blog Post](/mm1/daily-blog-post)
+
+## [Rotation Wrap Up Blog Post](/mm1/rotation-blog-post)
 
 ## [Projects](/mm1/projects)
