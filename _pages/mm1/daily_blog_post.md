@@ -1,7 +1,7 @@
 ---
 layout: page
 title: MM1 Daily Blog Post
-permalink: "/mm1/blog_post/"
+permalink: "/mm1/daily-blog-post/"
 description: MM1 Daily Blog Post BraceYourself Multimedia 1
 ---
 
