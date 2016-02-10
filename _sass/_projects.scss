@@ -1,0 +1,21 @@
+.tag {
+  cursor: default;
+}
+.streamable {
+  margin: 20px 0;
+}
+.icons {
+  position: relative;
+}
+.github {
+  position: absolute;
+  right: 10px;
+  top: -66px;
+}
+.github i {
+  font-size: 36px;
+  color: #444;
+}
+.github:hover i {
+  color: #268bd2;
+}
