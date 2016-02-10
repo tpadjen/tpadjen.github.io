@@ -3,6 +3,12 @@
 }
 .streamable {
   margin: 20px 0;
+  border: 8px solid #aaa;
+  border-radius: 2px;
+  transition: all 0.3s ease;
+}
+.streamable:hover {
+  border-color: #268bd2
 }
 .icons {
   position: relative;
@@ -10,12 +16,14 @@
 .github {
   position: absolute;
   right: 10px;
-  top: -66px;
+  top: -41px;
 }
 .github i {
-  font-size: 36px;
+  font-size: 32px;
   color: #444;
+  transition: all 0.3s ease;
 }
 .github:hover i {
   color: #268bd2;
+  transform: scale(1.5);
 }
