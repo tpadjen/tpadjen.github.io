@@ -29,3 +29,7 @@ description: Web Design BraceYourself
 
 ## More
   * [Designers List](http://www.designerslist.info/)
+
+# Projects
+
+  * [Build a Responsive HTML5 site](http://www.lingulo.com/tutorials/css/how-to-build-a-html5-website-from-scratch)
