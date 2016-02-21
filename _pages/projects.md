@@ -19,6 +19,7 @@ description: Projects BraceYourself
 Happy Planksgiving! My friends and I wanted to track our progress during our month-long planking competition last November so I build this app. [Try it out!](https:planks.firebaseapp.com) Angular2 was still in alpha back then, but it was up to the task.
 
 <div class="tags"><span class="tag">Angular2</span> <span class="tag">Firebase</span> <span class="tag">Webpack</span> <span class="tag">Typescript</span> <span class="tag">Responsive</span> <span class="tag">Authentication</span></div>
+<hr>
 
 ## Draft Builder 2015
 
