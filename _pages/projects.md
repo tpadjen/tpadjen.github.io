@@ -18,7 +18,7 @@ description: Projects BraceYourself
 
 Happy Planksgiving! My friends and I wanted to track our progress during our month-long planking competition last November so I build this app. [Try it out!](https:planks.firebaseapp.com) Angular2 was still in alpha back then, but it was up to the task.
 
-<span class="tag">Angular2</span> <span class="tag">Firebase</span> <span class="tag">Webpack</span> <span class="tag">Typescript</span> <span class="tag">Responsive</span> <span class="tag">Authentication</span>
+<div class="tags"><span class="tag">Angular2</span> <span class="tag">Firebase</span> <span class="tag">Webpack</span> <span class="tag">Typescript</span> <span class="tag">Responsive</span> <span class="tag">Authentication</span></div>
 
 ## Draft Builder 2015
 
@@ -30,4 +30,4 @@ Happy Planksgiving! My friends and I wanted to track our progress during our mon
 
 I built this app to manage the drafts for my fantasy football leagues this year. It went flawlessly, besides my teams not doing very well.
 
-<span class="tag">Ruby</span> <span class="tag">Rails</span> <span class="tag">JQuery</span> <span class="tag">Coffeescript</span> <span class="tag">Heroku</span>
+<div class="tags"><span class="tag">Ruby</span> <span class="tag">Rails</span> <span class="tag">JQuery</span> <span class="tag">Coffeescript</span> <span class="tag">Heroku</span></div>

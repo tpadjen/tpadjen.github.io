@@ -34,3 +34,11 @@
   right: 50px;
   top: -39px;
 }
+.tags {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+.tag {
+  margin-bottom: 1rem;
+}
