@@ -13,7 +13,7 @@ description: Projects BraceYourself
 </div>
 
 <div class="jumbo" style="width: 100%;">
-  <img src="/public/img/planks.png" alt="Planks">
+  <a href="https://planks.firebaseapp.com"><img src="/public/img/planks.png" alt="Planks"></a>
 </div>
 
 Happy Planksgiving! My friends and I wanted to track our progress during our month-long planking competition last November so I build this app. [Try it out!](https:planks.firebaseapp.com) Angular2 was still in alpha back then, but it was up to the task.
