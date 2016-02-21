@@ -1,29 +1,36 @@
 .tag {
   cursor: default;
 }
-.streamable {
+.jumbo {
   margin: 20px 0;
   border: 8px solid #aaa;
   border-radius: 2px;
   transition: all 0.3s ease;
 }
-.streamable:hover {
+.jumbo:hover {
   border-color: #268bd2
+}
+.jumbo img {
+  margin-bottom: 0;
 }
 .icons {
   position: relative;
 }
-.github {
+.ext {
   position: absolute;
   right: 10px;
   top: -41px;
 }
-.github i {
+.ext i {
   font-size: 32px;
   color: #444;
   transition: all 0.3s ease;
 }
-.github:hover i {
+.ext:hover i {
   color: #268bd2;
   transform: scale(1.5);
+}
+.web {
+  right: 50px;
+  top: -39px;
 }
