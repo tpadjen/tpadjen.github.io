@@ -16,9 +16,9 @@ description: Projects BraceYourself
   <a href="/ng2-prism"><img src="/public/img/previews/ng2-prism.png" alt="ng2-prism"></a>
 </div>
 
-This is an Angular 2 component that styles code sections using [PrismJS](http://prismjs.com/). I published it as an npm module, and built a demo site on GitHub Pages.
+This is an Angular 2 component that styles code sections using [PrismJS](http://prismjs.com/). I published it as an npm module, which was not simple. It is still early on in the Angular 2 and Typescript ecosystems and there are few examples available for bundling the typescript while managing dependencies both inside and outside the npm module. I also built a [demo site](http://www.braceyourself.io/ng2-prism) on GitHub Pages.
 
-<div class="tags"><span class="tag">Angular2</span> <span class="tag">npm</span> <span class="tag">jspm</span> <span class="tag">GitHub Pages</span> <span class="tag">PrismJS</span> <span class="tag">Typescript</span></div>
+<div class="tags"><span class="tag">Angular2</span> <span class="tag">npm</span> <span class="tag">jspm</span> <span class="tag">GitHub Pages</span> <span class="tag">PrismJS</span> <span class="tag">RxJS</span> <span class="tag">Typescript</span> <span class="tag">systemjs</span> <span class="tag">Node.js</span> <span class="tag">Sass</span> </div>
 <hr>
 
 ## Planks
