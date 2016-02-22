@@ -1,16 +1,16 @@
 .tag {
   cursor: default;
 }
-.jumbo {
+.preview {
   margin: 20px 0;
   border: 8px solid #aaa;
   border-radius: 2px;
   transition: all 0.3s ease;
 }
-.jumbo:hover {
+.preview:hover {
   border-color: #268bd2
 }
-.jumbo img {
+.preview img {
   margin-bottom: 0;
   border-radius: 0;
 }
