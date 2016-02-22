@@ -5,6 +5,22 @@ permalink: "/projects/"
 description: Projects BraceYourself
 ---
 
+## ng2-prism
+
+<div class="icons">
+  <a class="github ext" href="https://github.com/tpadjen/ng2-prism"><i class="fa fa-github"></i></a>
+  <a class="web ext" href="/ng2-prism"><i class="fa fa-link"></i></a>
+</div>
+
+<div class="preview" style="width: 100%;">
+  <a href="/ng2-prism"><img src="/public/img/previews/ng2-prism.png" alt="ng2-prism"></a>
+</div>
+
+This is an Angular 2 component that styles code sections using [PrismJS](http://prismjs.com/). I published it as an npm module, and built a demo site using GitHub Pages.
+
+<div class="tags"><span class="tag">Angular2</span> <span class="tag">npm</span> <span class="tag">jspm</span> <span class="tag">GitHub Pages</span> <span class="tag">PrismJS</span></div>
+<hr>
+
 ## Planks
 
 <div class="icons">
