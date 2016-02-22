@@ -10,33 +10,43 @@ I recently published an Angular 2 Component, [ng2-prism](http://braceyourself.io
 
 ## Setup
 
+### Npm
 Create a `package.json` either manually or with `npm init`. Then install the angular 2 dependencies, but only save them for development.
 
 ```bash
 $ npm i --save-dev angular2 es6-promise es6-shim reflect-metadata rxjs zone.js
 ```
 
-You need to make sure these are installed when your `npm` package is installed, which is what the `peerDependencies` section of `package.json` is for. Open up `package.json` and copy the angular 2 `devDependencies` to `peerDependencies`, so they are listed in both sections. You almost certainly have will have newer versions than those listed below.
-```json
-  "devDependencies": {
-    "angular2": "2.0.0-beta.6",
-    "es6-promise": "^3.0.2",
-    "es6-shim": "^0.33.3",
-    "reflect-metadata": "^0.1.3",
-    "rxjs": "5.0.0-beta.0",
-    "zone.js": "^0.5.14"
-  },
-  "peerDependencies": {
-    "angular2": "2.0.0-beta.6",
-    "es6-promise": "^3.0.2",
-    "es6-shim": "^0.33.3",
-    "reflect-metadata": "^0.1.3",
-    "rxjs": "5.0.0-beta.0",
-    "zone.js": "^0.5.14"
-  },
+Make sure your `.gitignore` includes `bundle` and `node_modules`.
+
+Create a `.npmignore` file to tell npm which files are only for development.
+```
+node_modules
+src
+tsconfig.json
 ```
 
-Create a `tsconfig.json` file.
+### Bundling
+
+Create a javascript file in the root of your project to act as the entrypoint for your package. A common name is `main.js`, but you can call it whatever you want.
+
+main.js
+```js
+exports.MyComponent = require('./bundle/my.component').MyComponent;
+```
+
+Change the `main` key in `package.json` to `main.js` or whatever you named the file.
+```json
+  "main": "main.js",
+```
+
+Create a `.d.ts` file so Typescript projects can read in the typings of your module during development. It should have the same name as the main entrypoint.
+
+```ts
+  export * from './bundle/my.component';
+```
+
+Create a `tsconfig.json` file to manage typescript compilation.
 
 ```json
 {
@@ -55,8 +65,17 @@ Create a `tsconfig.json` file.
     "src/my.component.ts"
   ]
 }
+```
 
-
+Add a build script to `package.json` to compile your component from typescript. Also add a prepublish script to make sure your project gets built every time you publish.
+```json
+"scripts": {
+  ...
+  "build": "rm -rf bundle && tsc",
+  "prepublish": "npm run build"
+  ...
+}
+```
 
 ## Angular 2 Component
 
@@ -69,13 +88,12 @@ import {Component} from 'angular2/core';
 
 ```
 
-
 ## Bundling
 
 Create a javascript file in the root of your project to act as the entrypoint for your package. A common name is `main.js`, but you can call it whatever you want.
 
 main.js
 ```js
-exports.MyComponent = require('./bundle/codeblock.component').MyComponent;
+exports.MyComponent = require('./bundle/my.component').MyComponent;
 ```
 
