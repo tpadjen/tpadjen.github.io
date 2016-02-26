@@ -15,6 +15,10 @@ description: Intro CS BraceYourself Computer Science
 
 # Resources
 
+## Scratch
+
+  * [Video Lessons](https://www.youtube.com/watch?v=Qi9ooZcBBWg&list=PL2E6EED8E1A69F2A5)
+
 ## HTML
   * Guides - [HTML Dog - HTML](http://www.htmldog.com/guides/html/)
   * [HTML5 Cheat Sheet](http://websitesetup.org/HTML5-cheat-sheet.pdf)
