@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Final Projects
+title: Final Project
 permalink: "/mm1/final/"
 description: MM1 Final Project BraceYourself Multimedia 1
 ---
