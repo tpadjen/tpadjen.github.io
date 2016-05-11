@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Final Projects
-permalink: "/mm1/final-project/"
+permalink: "/mm1/final/"
 description: MM1 Final Project BraceYourself Multimedia 1
 ---
 

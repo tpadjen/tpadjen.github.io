@@ -17,4 +17,4 @@ description: MM1 BraceYourself Multimedia 1
 
 ## [Projects](/mm1/projects)
 
-## [Final Project](/mm1/final-project)
+## [Final Project](/mm1/final)
