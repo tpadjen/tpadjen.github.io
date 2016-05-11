@@ -16,3 +16,5 @@ description: MM1 BraceYourself Multimedia 1
 ## [Rotation Wrap Up Blog Post](/mm1/rotation-blog-post)
 
 ## [Projects](/mm1/projects)
+
+## [Final Project](/mm1/final-project)
