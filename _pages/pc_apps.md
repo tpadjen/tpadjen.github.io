@@ -40,7 +40,7 @@ description: Intro to PC Apps BraceYourself
   2. Quick Check 1.1 pg WD 29
   3. Continue the Tutorial with Word section 1.2, pages WD 30 - 54
   4. Quick Check 1.2 pg WD 54
-  5. Review pg WD 55 - [Files]({{ site.baseurl }}/docs/pc_apps/word/tutorial1/WordReview1.zip)
+  5. Review pg WD 55
 
 </div>
 
