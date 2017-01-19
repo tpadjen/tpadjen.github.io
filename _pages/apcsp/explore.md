@@ -12,7 +12,7 @@ Select and investigate a **computational innovation** that
 
   * has had or has the potential to have significant beneficial and harmful effects on society, economy, or culture
   * consumes, produces, and/or transforms data
-  * raises at least one data storage concern, data prvacy concern, or data security concern
+  * raises at least one data storage concern, data privacy concern, or data security concern
 
 ## Requirements
 1. **Research** your innovation topic with a variety of sources (at least 3 need to be cited)
