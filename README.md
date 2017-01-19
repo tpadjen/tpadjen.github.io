@@ -10,6 +10,18 @@ My blog
   $ brew install jpegoptim optipng
   ```
 
+## Testing
+
+  ```
+  $ jekyll serve
+  ```
+
+Open browser to `localhost:4000`.
+
+## Publishing
+
+Push changes to github.
+
 ## Rake
 
 * Run live updating server
