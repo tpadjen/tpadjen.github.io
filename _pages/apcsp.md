@@ -18,6 +18,34 @@ More info will be posted when details are made available.
   * [AP Digital Portfolio Student User Guide](https://secure-media.collegeboard.org/digitalServices/pdf/ap/computer-science-principles-digital-portfolio-student-guide.pdf)
   * [Site with sample responses and rubrics](http://apcentral.collegeboard.com/apc/public/exam/exam_information/231726.html)
 
+### Plan
+
+<table class="calendar">
+  <thead>
+    <tr>
+      <th>Jan</th>
+      <th>Feb</th>
+      <th>Mar</th>
+      <th>Apr</th>
+      <th>May</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Register for Exam</td>
+      <td class="even"><a href="/apcsp/explore">Explore Task</a></td>
+      <td rowspan="2"><a href="/apcsp/create">Create Task</a></td>
+      <td class="even">Review for Exam</td>
+      <td rowspan="2">Exam</td>
+    </tr>
+    <tr>
+      <td class="odd">Find a Research Topic</td>
+      <td>Find a Program Idea</td>
+      <td>Turn in Tasks</td>
+    </tr>
+  </tbody>
+</table>
+
 ### Performance Tasks
 Due **April 30th**
 

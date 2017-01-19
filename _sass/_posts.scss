@@ -86,3 +86,22 @@
   border-color: #E74C3C;
   margin-left: 20px;
 }
+
+.calendar {
+
+  th {
+    text-align: center;
+    background: #888;
+    color: white;
+  }
+
+  td {
+    &.even {
+      background: white !important;
+    }
+    &.odd {
+      background: #f9f9f9 !important;
+    }
+  }
+
+}
