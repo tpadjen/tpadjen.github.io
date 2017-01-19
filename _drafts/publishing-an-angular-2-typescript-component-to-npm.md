@@ -85,7 +85,18 @@ my.component.ts
 ```typescript
 import {Component} from 'angular2/core';
 
-
+@Component({
+  selector: 'my-component',
+  template: `
+    <h1>My Component</h1>
+  `,
+  styles: [`
+    h1 {
+      background: yellow;
+    }
+  `]
+})
+export class MyComponent { }
 ```
 
 ## Bundling
