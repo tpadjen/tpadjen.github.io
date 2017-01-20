@@ -38,22 +38,31 @@ Complicated elements, such as the Canadian maple leaf or the American stars, can
 #### Flags to include (in this order)
 
 <p class="label">Libya</p>
-<img class="flag" src="/public/img/flags/libya.png">
+<br><img class="flag" src="/public/img/flags/libya.png">
+
 <p class="label">Germany</p>
 <br><img class="flag" src="/public/img/flags/germany.png">
+
 <p class="label">Ireland</p>
 <br><img class="flag" src="/public/img/flags/ireland.png">
+
 <p class="label">Gambia</p>
 <br><img class="flag" src="/public/img/flags/gambia.png">
+
 <p class="label">Sweden</p>
 <br><img class="flag" src="/public/img/flags/sweden.svg">
+
 <p class="label">Canada</p>
 <br><img class="flag" src="/public/img/flags/canada.png">
+
 <p class="label">Maldives</p>
 <br><img class="flag" src="/public/img/flags/maldives.png">
+
 <p class="label">Greece</p>
 <br><img class="flag" src="/public/img/flags/greece.png">
+
 <p class="label">Switzerland</p>
 <br><img class="flag" src="/public/img/flags/switzerland.gif">
+
 <p class="label">America</p>
 <br><img class="flag" src="/public/img/flags/america.png">
