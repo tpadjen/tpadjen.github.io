@@ -61,9 +61,10 @@ description: Intro to PC Apps BraceYourself
 <div markdown="1" class="box partner">
 
   1. Tutorial 2 - [Files]({{ site.baseurl }}/docs/pc_apps/word/tutorial2/WordTutorial2.zip)
-  2. Quick Check 2.1
-  3. Quick Check 2.2
-  4. Review - [Files]({{ site.baseurl }}/docs/pc_apps/word/tutorial2/WordReview2.zip)
+  2. Keep track of at least 10 **Keyboard Shortcuts** and their purpose in a word document
+  3. Quick Check 2.1
+  4. Quick Check 2.2
+  5. Review - [Files]({{ site.baseurl }}/docs/pc_apps/word/tutorial2/WordReview2.zip)
 
 </div>
 
