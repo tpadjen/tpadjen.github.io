@@ -66,3 +66,9 @@ Complicated elements, such as the Canadian maple leaf or the American stars, can
 
 <p class="label">America</p>
 <br><img class="flag" src="/public/img/flags/america.png">
+
+<hr>
+
+<h4>Next</h4>
+
+When you've finished the flags, go to [Layout](/intro_cs/layout).

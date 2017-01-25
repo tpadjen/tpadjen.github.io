@@ -112,9 +112,28 @@ p.label {
   font-weight: bold;
 }
 
-img.flag {
+p.site-label {
+  margin-bottom: 4px;
+  font-weight: bold;
+  text-align: center;
+}
+
+hr.site {
+  width: 33%;
+  border-color: #888;
+  display: block;
+  margin: 8px auto;
+  margin-bottom: 24px;
+}
+
+img.flag,
+img.site {
   display: block; 
   width: 75%; 
   margin: 10px auto 50px auto;
   border-radius: 0;
+}
+
+img.site {
+  width: 50%;
 }
