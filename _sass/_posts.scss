@@ -137,3 +137,16 @@ img.site {
 img.site {
   width: 50%;
 }
+
+.done {
+  text-align: center;
+  margin-bottom: 16px;
+}
+
+.checklist tr td:first-child {
+  text-align: center;
+}
+
+.checklist tr td:nth-child(2) {
+  padding-left: 20px;
+}

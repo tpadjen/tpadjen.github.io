@@ -5,12 +5,67 @@ permalink: "/mm1/projects/"
 description: MM1 Projects BraceYourself Multimedia 1
 ---
 
+  * [Illustrator](#illustrator)
   * [Video Editing](#video)
   * [Special Effects](#effects)
   * [Photoshop](#photo)
   * [3d Modeling](#threed)
   * [Web Design](#web)
-  * [Illustrator](#illustrator)
+
+
+<span id="illustrator"></span>
+
+## Illustrator
+
+Your team has been approached by Nike. Tired of the swoosh and the slogan "Just Do It", they need a new marketing campaign. They are accepting bids for the new contract at the end of the week.
+
+ * First, as a team, create a new slogan and a general idea for a new logo. Neither the slogan or the logo may be the same as those of an existing company. Google your slogan idea to make sure it is original. 
+
+ * Then, each team member should create their own version of the logo and slogan. All designing must be your own original work created in Illustrator.
+
+ * Next, each team member should create a t-shirt design that prominintly displays the logo and slogan, plus some other unique and creative design features that would make customers want to purchase the shirt. 
+
+ * Design both the front and back of the shirt. Use the template t-shirt below as a background image. Be sure to trace the outline of the image so the shirt is part of the vector drawing you create, then remove the image when you are done.
+
+ * Finally, create an alternate color version of the same shirt.
+
+<a href="/public/img/mm1/t-shirt.jpeg"><img src="/public/img/mm1/t-shirt.jpeg"></a>
+
+<h3 class="done">Turn In</h3>
+
+All <strong>4</strong> illustrations must each be submitted in three versions, `ai, svg, and png`. 
+
+The `png` images should be approximately **500x500 px**. The size might be slightly different if your design does not fit in a square, but stay close to the recommended size. 
+
+There should not be any other drawings in the files you submit, and the `svg and png` versions should not have excessive space around them.  
+
+<p class="done"><strong>Checklist</strong></p>
+<table class="checklist">
+  <tbody>
+    <tr class="numbers">
+      <td>1</td>
+      <td>Team Slogan</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>Individual Logo</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>T-Shirt Design</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>Alternate T-Shirt Design</td>
+    </tr>
+  </tbody>
+</table>
+
+<br>
+
+<hr>
+
+<br>
 
 <span id="video"></span>
 
@@ -92,15 +147,3 @@ Finally, assemble your plan in one model design.
 ## Web Design
 
 Your team has been hired to build a new website for an existing Mountain Vista club, organization, or class. The new website needs to be useful and informative for users, with all relevant information easily accessible. Each team member must contribute one page to the final design. All of the pages must link to each other. Use all of your existing html and css knowledge to make the website great.
-
-<span id="illustrator"></span>
-
-## Illustrator
-
-Your team has been approached by Nike. Tired of the swoosh and the slogan "Just Do It", they need a new marketing campaign. They are accepting bids for the new contract at the end of the week.
-
-First, as a team, create a new slogan and a general idea for a new logo. 
-
-Then, each team member should create their own version of the logo. All designing must be your own original work created in Illustrator.
-
-Finally, each team member should create an advertisement for a specific product showing off the new logo and slogan. Show the Nike executives that your ideas are the best!
