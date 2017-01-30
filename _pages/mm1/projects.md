@@ -29,7 +29,11 @@ Your team has been approached by Nike. Tired of the swoosh and the slogan "Just 
 
  * Finally, create an alternate color version of the same shirt.
 
-<a href="/public/img/mm1/t-shirt.jpeg"><img src="/public/img/mm1/t-shirt.jpeg"></a>
+<div class="attributed">
+  <a href="/public/img/mm1/t-shirt.jpeg"><img class="t-shirt" src="/public/img/mm1/t-shirt.jpeg"></a>
+  <p class="attribution">Image courtesy <a href="https://clipartfest.com/">clipartfest.com</a></p>
+</div>
+
 
 <h3 class="done">Turn In</h3>
 
