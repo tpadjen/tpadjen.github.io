@@ -35,7 +35,7 @@ Your team has been approached by Nike. Tired of the swoosh and the slogan "Just 
 
 All <strong>4</strong> illustrations must each be submitted in three versions, `ai, svg, and png`. 
 
-The `png` images should be approximately **500x500 px**. The size might be slightly different if your design does not fit in a square, but stay close to the recommended size. 
+The `png` images for the t-shirts should be exactly **750x500 px**. The size of your images for the slogan and logo might be slightly different if your design does not fit in that size rectangle, but stay as close to the same size as possible. 
 
 There should not be any other drawings in the files you submit, and the `svg and png` versions should not have excessive space around them.  
 
