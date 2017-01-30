@@ -99,3 +99,25 @@ description: Intro to PC Apps BraceYourself
   2. Case Problem 4
 
 </div>
+
+### Tutorial 4
+
+<h4 class="boxed">With Your Partner</h4>
+<div markdown="1" class="box partner">
+
+  1. Tutorial 4 - [Files]({{ site.baseurl }}/docs/pc_apps/word/tutorial4/WordTutorial4.zip)
+  2. Quick Check 4.1
+  3. Quick Check 4.2
+  4. Review - [Files]({{ site.baseurl }}/docs/pc_apps/word/tutorial4/WordReview4.zip)
+
+</div>
+
+<hr class="boxed">
+
+<h4 class="boxed">On Your Own</h4>
+<div markdown="1" class="box own">
+
+  1. Case Problem 1 - [Files]({{ site.baseurl }}/docs/pc_apps/word/tutorial2/WordCaseProblem_4-1.zip)
+  2. Case Problem 3 - [Files]({{ site.baseurl }}/docs/pc_apps/word/tutorial2/WordCaseProblem_4-3.zip)
+
+</div>
