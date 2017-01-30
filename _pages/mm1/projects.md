@@ -29,6 +29,7 @@ Your team has been approached by Nike. Tired of the swoosh and the slogan "Just 
 
  * Finally, create an alternate color version of the same shirt.
 
+<p class="title">Template</p>
 <div class="attributed">
   <a href="/public/img/mm1/t-shirt.jpeg"><img class="t-shirt" src="/public/img/mm1/t-shirt.jpeg"></a>
   <p class="attribution">Image courtesy <a href="https://clipartfest.com/">clipartfest.com</a></p>
@@ -43,7 +44,7 @@ The `png` images for the t-shirts should be exactly **750x500 px**. The size of 
 
 There should not be any other drawings in the files you submit, and the `svg and png` versions should not have excessive space around them.  
 
-<p class="done"><strong>Checklist</strong></p>
+<p class="title">Checklist</p>
 <table class="checklist">
   <tbody>
     <tr class="numbers">
