@@ -64,7 +64,7 @@ Test begins at 12 noon | **Arrive Early!**
 
 <br>
 
-* The test may take up to **3 hrs and 45 min**.
+* The test may take up to **2 hrs and 30 min**.
 * Dress in layers so you can be comfortable in a warm or a cold room.
 
 ### Multiple Choice Preparation
