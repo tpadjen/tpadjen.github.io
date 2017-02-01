@@ -20,28 +20,28 @@ description: APC S PixLab
   <div class="section" markdown="1">
   In your Eclipse workspace `clone` the repo and `cd` there.
 
-  {% highlight bash %}
-  $ git clone http://github.com/your_username/PixLab
+{% highlight bash %}
+$ git clone http://github.com/your_username/PixLab
 $ cd PixLab
-  {% endhighlight %}
+{% endhighlight %}
   </div>
 
   <p class="section-title">3</p>
   <div class="section" markdown="1">
   Grab all of the branches<br>
   
-  {% highlight bash %}
-  $ git fetch origin
-  {% endhighlight %}
+{% highlight bash %}
+$ git fetch origin
+{% endhighlight %}
   </div>
 
   <p class="section-title">4</p>
   <div class="section" markdown="1">
   Change to the `a1` branch<br>
 
-  {% highlight bash %}
-  $ git checkout a1
-  {% endhighlight %}
+{% highlight bash %}
+$ git checkout a1
+{% endhighlight %}
   </div>
 
 </div>
