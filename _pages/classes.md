@@ -9,6 +9,8 @@ description: Classes BraceYourself
 
 <div class="section" markdown="1">
 
+<div class="class-table" markdown="1">
+
 | Period | Class                                  |
 |--------|----------------------------------------|
 | 1      | [Multimedia 1](/mm1)                   |
@@ -17,6 +19,8 @@ description: Classes BraceYourself
 | 4      | [Web Design](/web_design)              |
 | 5      | [AP Computer Science](/apcs)           |
 
+
+</div>
 </div>
 
 ## Other

@@ -190,3 +190,31 @@ img.site {
   padding-left: 20px;
   padding-right: 20px;
 }
+
+.class-table {
+
+  width: 380px;
+
+  font-size: 1.2em;
+
+  th {
+    text-align: center;
+
+    background: #313131;
+    color: white;
+
+    &:first-child {
+      width: 90px;
+    }
+  }
+
+  td:first-child {
+    text-align: center;
+  }
+
+  td:nth-child(2) {
+    padding-left: 2em;
+  }
+
+
+}
