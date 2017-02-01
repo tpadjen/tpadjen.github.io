@@ -13,7 +13,7 @@ description: APCS PixLab
 
   <p class="section-title">1</p>
   <div class="section" markdown="1">
-  Fork [github.com/mvhs-apcs/PixLab](http://github.com/mvhs-apcs/PicLab)
+  Fork [github.com/mvhs-apcs/PixLab](http://github.com/mvhs-apcs/PixLab)
   </div>
 
   <p class="section-title">2</p>
@@ -67,7 +67,7 @@ Make sure your `git status` is clean, and you are on the right branch
 <div class="section" markdown="1">
 Write the code and/or make the changes described by the exercise.
 
-Include the comments before methods (called doc comments) on any new methods you right. Follow the structure of the method comments already written.
+Include the comments before methods (called doc comments) on any new methods you write. Follow the structure of the method comments already written.
 </div>
 
 <p class="section-title">3</p>
