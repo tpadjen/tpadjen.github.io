@@ -37,7 +37,6 @@ github:
 include: ['_pages']
 
 header_pages:
-  Projects: '/projects/'
   Classes: '/classes/'
 
 feed: '/atom.xml'
