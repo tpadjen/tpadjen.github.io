@@ -40,7 +40,7 @@ description: APCSP BraceYourself AP Computer Science Principles
 ### Registration
 
 Deadline: Sunday, March 5th @ midnight <br>
-Fee: $93.00 through February 28th, $118 afterward <br>
+Fee: $93.00 through February, $118 afterward <br>
 [Register Here](https://dcsdk12.revtrak.net/tek9.asp?pg=rw_mvhs)
 
 ### Important Info
@@ -50,10 +50,18 @@ Fee: $93.00 through February 28th, $118 afterward <br>
 
 ### Performance Tasks
 
+<div class="section" markdown="1">
+  
 Due **April 30th**
 
+<p class="section-title">Task Summaries</p>
 1. [Explore Task](/apcsp/explore)
 2. [Create Task](/apcsp/create)
+
+<p class="section-title">Submission</p>
+[AP Digital Portfolio - Student User Guide](https://secure-media.collegeboard.org/digitalServices/pdf/ap/computer-science-principles-digital-portfolio-student-guide.pdf)
+
+</div>
 
 ### Exam Day
 
