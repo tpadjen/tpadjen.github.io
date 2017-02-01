@@ -1,13 +1,11 @@
 ---
 layout: page
 title: Classes
-permalink: "/classes/"
+permalink: "/"
 description: Classes BraceYourself
 ---
 
 ## Spring 2017
-
-<div class="section" markdown="1">
 
 | Period | Class                                  |
 |--------|----------------------------------------|
@@ -17,16 +15,8 @@ description: Classes BraceYourself
 | 4      | [Web Design](/web_design)              |
 | 5      | [AP Computer Science](/apcs)           |
 
-</div>
-
 ## Other
-
-<div class="section" markdown="1">
 
 [AP Computer Science Principles](/apcsp)
 
-</div>
-
-<!--
 [Exit Form](https://docs.google.com/a/dcsdk12.org/forms/d/12pt-Aagatoci-g7UnAkfPKtoRXBcFVJpKKAUR71bN-g/viewform)
--->
