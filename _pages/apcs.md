@@ -13,11 +13,17 @@ description: APCS BraceYourself AP Computer Science
 
 ## Registration
 
+<div class="section" markdown="1">
+
 Deadline: Sunday, March 5th @ midnight <br>
 Fee: $93.00 through February 28th, $118 afterward <br>
 [Register Here](https://dcsdk12.revtrak.net/tek9.asp?pg=rw_mvhs)
 
+</div>
+
 ## CS Exam Details
+
+<div class="section" markdown="1">
 
 Tuesday, May 2nd <br>
 Test begins at 8 am | **Arrive Early!**
@@ -28,3 +34,5 @@ Test begins at 8 am | **Arrive Early!**
 
 * The test may take up to **3 hrs and 45 min**.
 * Dress in layers so you can be comfortable in a warm or a cold room.
+
+</div>
