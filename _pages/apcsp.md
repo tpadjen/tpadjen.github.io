@@ -5,11 +5,17 @@ permalink: "/apcsp/"
 description: APCSP BraceYourself AP Computer Science Principles
 ---
 
+<div class="section" markdown="1">
+
 [Official Course Website](https://apstudent.collegeboard.org/apcourse/ap-computer-science-principles)
+
+</div>
 
 ## Exam
 
 ### Plan
+
+<div class="section" markdown="1">
 
 <table class="calendar">
   <thead>
@@ -37,16 +43,27 @@ description: APCSP BraceYourself AP Computer Science Principles
   </tbody>
 </table>
 
+</div>
+
 ### Registration
+
+<div class="section" markdown="1">
 
 Deadline: Sunday, March 5th @ midnight <br>
 Fee: $93.00 through February, $118 afterward <br>
 [Register Here](https://dcsdk12.revtrak.net/tek9.asp?pg=rw_mvhs)
 
+</div>
+
 ### Important Info
-  * [Course and Exam Description](https://secure-media.collegeboard.org/digitalServices/pdf/ap/ap-computer-science-principles-course-and-exam-description.pdf)
-  * [AP Digital Portfolio Student User Guide](https://secure-media.collegeboard.org/digitalServices/pdf/ap/computer-science-principles-digital-portfolio-student-guide.pdf)
-  * [Site with sample responses and rubrics](http://apcentral.collegeboard.com/apc/public/exam/exam_information/231726.html)
+
+<div class="section" markdown="1">
+
+* [Course and Exam Description](https://secure-media.collegeboard.org/digitalServices/pdf/ap/ap-computer-science-principles-course-and-exam-description.pdf)
+* [AP Digital Portfolio Student User Guide](https://secure-media.collegeboard.org/digitalServices/pdf/ap/computer-science-principles-digital-portfolio-student-guide.pdf)
+* [Site with sample responses and rubrics](http://apcentral.collegeboard.com/apc/public/exam/exam_information/231726.html)
+
+</div>
 
 ### Performance Tasks
 
@@ -65,6 +82,8 @@ Due **April 30th**
 
 ### Exam Day
 
+<div class="section" markdown="1">
+
 Friday, May 5th <br>
 Test begins at 12 noon | **Arrive Early!**
 
@@ -75,11 +94,17 @@ Test begins at 12 noon | **Arrive Early!**
 * The test may take up to **2 hrs and 30 min**.
 * Dress in layers so you can be comfortable in a warm or a cold room.
 
+</div>
+
 ### Multiple Choice Preparation
+
+<div class="section" markdown="1">
 
 There is an official practice exam that the AP Board does not let me distribute outside of the classroom. Plan to use one entire `SOAR` period in April to take it.
 
 Other resources:
+
+<div class="section" markdown="1">
 
 * Another practice test is available in the [Course and Exam Description](https://secure-media.collegeboard.org/digitalServices/pdf/ap/)
 * [Review](http://rites.cs.uri.edu/material.php)
@@ -92,3 +117,7 @@ Other resources:
   5. Programming
   6. The Internet
   7. Global Impact
+
+</div>
+
+</div>

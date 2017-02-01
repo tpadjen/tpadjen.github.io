@@ -89,6 +89,10 @@
 
 .calendar {
 
+  tr, td {
+    font-size: 0.97em;
+  }
+
   th {
     text-align: center;
     background: #888;
@@ -151,6 +155,10 @@ img.site {
 
 .section {
   margin-left: 2em;
+}
+
+.section ul {
+  -webkit-padding-start: 0em;
 }
 
 .section-title {
