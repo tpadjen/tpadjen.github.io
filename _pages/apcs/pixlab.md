@@ -9,7 +9,7 @@ description: APCS PixLab
 
 ### Setup
 
-<div class="section" markdown="1">
+<div class="section listed" markdown="1">
 
   <p class="section-title">1</p>
   <div class="section" markdown="1">
@@ -56,7 +56,7 @@ When you see a **question** answer it in `answers.md`.<br>Commit at the end of a
 <div class="section" markdown="1">
 When you see an **exercise** follow this **7 step process**:
 
-<div class="section" markdown="1">
+<div class="section listed" markdown="1">
 
 <p class="section-title">1</p>
 <div class="section" markdown="1">
