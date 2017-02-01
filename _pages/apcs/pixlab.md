@@ -1,8 +1,8 @@
 ---
 layout: page
-title: APCS PixLab
+title: AP CS PixLab
 permalink: "/apcs/pixlab/"
-description: APCS PixLab
+description: APC S PixLab
 ---
 
 ## Instructions
