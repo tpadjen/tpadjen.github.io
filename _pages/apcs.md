@@ -9,9 +9,9 @@ description: APCS BraceYourself AP Computer Science
 >
 > &mdash; <cite>Douglas Adams</cite>
 
-# AP Exam
+## AP Exam
 
-## Registration
+### Registration
 
 <div class="section" markdown="1">
 
@@ -21,7 +21,7 @@ Fee: $93.00 through February 28th, $118 afterward <br>
 
 </div>
 
-## CS Exam Details
+#### CS Exam Details
 
 <div class="section" markdown="1">
 
@@ -34,5 +34,13 @@ Test begins at 8 am | **Arrive Early!**
 
 * The test may take up to **3 hrs and 45 min**.
 * Dress in layers so you can be comfortable in a warm or a cold room.
+
+</div>
+
+## Labs
+
+<div class="section" markdown="1">
+
+[PixLab](/apcs/pixlab)
 
 </div>
