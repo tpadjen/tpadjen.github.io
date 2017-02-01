@@ -13,30 +13,35 @@ description: APC S PixLab
 
   <p class="section-title">1</p>
   <div class="section" markdown="1">
-  Fork [github.com/mvhs-apcs/PixLab](http://github.com/mvhs-apcs/PixLab)
+  Fork [PixLab](http://github.com/mvhs-apcs/PixLab).
   </div>
 
   <p class="section-title">2</p>
   <div class="section" markdown="1">
-  Clone your repo into your Eclipse workspace and change to the new directory
+  In your Eclipse workspace `clone` the repo and `cd` there.
+
+  {% highlight bash %}
+  $ git clone http://github.com/your_username/PixLab
+$ cd PixLab
+  {% endhighlight %}
   </div>
 
   <p class="section-title">3</p>
   <div class="section" markdown="1">
   Grab all of the branches<br>
   
-  ```
+  {% highlight bash %}
   $ git fetch origin
-  ```
+  {% endhighlight %}
   </div>
 
   <p class="section-title">4</p>
   <div class="section" markdown="1">
   Change to the `a1` branch<br>
 
-  ```
+  {% highlight bash %}
   $ git checkout a1
-  ```
+  {% endhighlight %}
   </div>
 
 </div>
@@ -83,10 +88,10 @@ Remove any unnecessary code
 * No printing, unless told to do so
 * No `variables`, `methods`, or `code blocks` that were only used for **debugging**
 * Nothing that doesn't **directly contribute** to **this exercise**
-* You can quickly see exactly your changes<br>
-```
+* You can quickly see only your changes:<br>
+{% highlight bash %}
 $ git diff
-```
+{% endhighlight %}
 </div>
 </div>
 
@@ -104,9 +109,9 @@ Double check that you are on the right **branch** for the activity you are curre
 <div class="section" markdown="1">
 Commit. `#` is the current exercise number.
 
-```
+{% highlight bash %}
 $ git commit -m "Exercise #"
-```
+{% endhighlight %}
 
 </div>
 
