@@ -7,9 +7,15 @@ description: Intro CS Layout BraceYourself Computer Science
 
 ## Layout
 
-Use [learnlayout.com](http://learnlayout.com) as a resource as you make the websites described below.
+<div class="section" markdown="1">
+
+Use [learnlayout.com](http://learnlayout.com) as a resource as you make the websites below.
+
+</div>
 
 ### Practice
+
+<div class="section" markdown="1">
 
 Choose **1** example page from the list below. Make a copy of the site using your own <code>HTML</code> and <code>CSS</code>.
 
@@ -17,7 +23,12 @@ Choose **1** example page from the list below. Make a copy of the site using you
 * You may only use <code>images</code> if that part of the original page was obviously photographed (text is not an image!).
 * Make sure your browser window is a wide as possible when viewing the websites below. They may look different at other sizes.
 
-#### Example Sites
+<p class="break"></p>
+
+<p class="section-title callout">Example Sites</p>
+
+<p class="break"></p>
+
 <p class="site-label">Mustache Enthusiast</p><hr class="site">
 <a href="https://freewebsitetemplates.com/preview/mustacheenthusiast/index.html">
   <img class="site" src="/public/img/sites/mustache.jpg">
@@ -47,3 +58,5 @@ Choose **1** example page from the list below. Make a copy of the site using you
 <a href="https://freewebsitetemplates.com/website/welcomerio/">
   <img class="site" src="/public/img/sites/rio.jpg">
 </a>
+
+</div>

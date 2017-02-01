@@ -9,33 +9,43 @@ description: Intro CS BraceYourself Computer Science
 >
 > &mdash; <cite>Pablo Picasso</cite>
 
-# Portfolio
-  * [Live Example](http://mvhs-introcs.github.io/portfolio)
-  * [Example Code](https://github.com/mvhs-introcs/portfolio)
 
-# Resources
+## Assignments
 
-## Scratch
+<div class="section" markdown="1">
+  
+1. [Floats](/intro_cs/floats)
+2. [Layout](/intro_cs/layout)
 
-  * [Video Lessons](https://www.youtube.com/watch?v=Qi9ooZcBBWg&list=PL2E6EED8E1A69F2A5)
+</div>
 
-## HTML
+## Resources
+
+<div class="section" markdown="1">
+
+### HTML
   * Guides - [HTML Dog - HTML](http://www.htmldog.com/guides/html/)
   * [HTML5 Cheat Sheet](http://websitesetup.org/HTML5-cheat-sheet.pdf)
   
-## Style
+#### Style
   * Guides: [HTML Dog - CSS](http://www.htmldog.com/guides/css/)
   * [CSS3 Transitions](http://www.webdesignerdepot.com/2014/05/8-simple-css3-transitions-that-will-wow-your-users/)
   * [Adobe Color](http://color.adobe.com)
   * Backgrounds - [Subtle Patterns](http://subtlepatterns.com/)
   * Icons - [The Noun Project](http://thenounproject.com)
 
-## Layout
+#### Layout
   * [Learn Layout](http://learnlayout.com/)
   * [Lorem Pixel](http://lorempixel.com/)
 
-## Responsive Design
+#### Responsive Design
   * [Grid](http://adamkaplan.me/grid/)
 
-## More
+#### More
   * [Designers List](http://www.designerslist.info/)
+
+### Scratch
+
+  * [Video Lessons](https://www.youtube.com/watch?v=Qi9ooZcBBWg&list=PL2E6EED8E1A69F2A5)
+
+</div>

@@ -9,9 +9,15 @@ description: Intro CS Floats BraceYourself Computer Science
 
 ### Article
 
+<div class="section" markdown="1">
+
 Read the first part of [this article on the CSS float property](http://alistapart.com/article/css-floats-101). Stop when you get to *Using floats for layout*.
 
+</div>
+
 ### Practice
+
+<div class="section" markdown="1">
 
 Next, use floats (plus padding and margin) to make a website showing off interesting flags from around the world.
 
@@ -31,11 +37,9 @@ Every part of a flag that is a solid rectangle, or can be made from a few solid 
 }
 {% endhighlight %}
 
-
-
 Complicated elements, such as the Canadian maple leaf or the American stars, can be images.
 
-#### Flags to include (in this order)
+<p class="section-title callout">Flags to include (in this order)</p>
 
 <p class="label">Libya</p>
 <br><img class="flag" src="/public/img/flags/libya.png">
@@ -67,8 +71,14 @@ Complicated elements, such as the Canadian maple leaf or the American stars, can
 <p class="label">America</p>
 <br><img class="flag" src="/public/img/flags/america.png">
 
+</div>
+
 <hr>
 
-<h4>Next</h4>
+#### Next
+
+<div class="section" markdown="1">
 
 When you've finished the flags, go to [Layout](/intro_cs/layout).
+
+</div>

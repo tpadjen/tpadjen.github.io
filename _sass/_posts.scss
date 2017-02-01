@@ -111,7 +111,7 @@
 }
 
 p.label {
-  margin-left: 40px;
+  margin-left: 1em;
   margin-bottom: 4px;
   font-weight: bold;
 }
@@ -153,17 +153,29 @@ img.site {
   color: #666;
 }
 
-.section {
-  margin-left: 2em;
-}
 
-.section ul {
-  -webkit-padding-start: 0em;
+.section  {
+  margin-left: 2em;
+
+  ul,
+  ol {
+    -webkit-padding-start: 0em;
+  }
+
 }
 
 .section-title {
   font-weight: bold;
   color: #666;
+}
+
+.callout {
+  text-align: center;
+  border: 1px solid #bbb;
+  border-radius: 2px;
+  padding-top: 0.5em;
+  padding-bottom: 0.5em;
+  background: #f9f9f9;
 }
 
 .checklist tr td:first-child {
@@ -217,4 +229,12 @@ img.site {
   }
 
 
+}
+
+.spaced {
+  margin-bottom: 1em;
+}
+
+p.break {
+  height: 0.5em;
 }
