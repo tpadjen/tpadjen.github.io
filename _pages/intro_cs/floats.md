@@ -29,13 +29,13 @@ Every part of a flag that is a solid rectangle, or can be made from a few solid 
 ```
 
 <p class="label">CSS</p>
-{% highlight css %}
+```css
 .rectangle {
   height: 100px;
   width: 200px;
   /* plus other rules to put it in the right place */
 }
-{% endhighlight %}
+```
 
 Complicated elements, such as the Canadian maple leaf or the American stars, can be images.
 
