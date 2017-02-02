@@ -130,14 +130,6 @@ hr.site {
   margin-bottom: 24px;
 }
 
-img.flag,
-img.site {
-  display: block; 
-  width: 75%; 
-  margin: 10px auto 50px auto;
-  border-radius: 0;
-}
-
 img.site {
   width: 50%;
 }
@@ -176,6 +168,7 @@ img.site {
   padding-top: 0.5em;
   padding-bottom: 0.5em;
   background: #f9f9f9;
+  margin-bottom: 2rem;
 }
 
 .checklist tr td:first-child {
@@ -252,4 +245,27 @@ figure {
   margin-after: 0;
   margin-start: 0;
   margin-end: 0;
+}
+
+.rect {
+  background: #f9f9f9;
+  border: 1px solid #bbb;
+  border-radius: 2px;
+  margin-bottom: 2rem;
+
+  .label {
+    margin: 1rem 0 2rem 2rem;
+  }
+}
+
+img.flag,
+img.site {
+  display: block; 
+  width: 75%;
+  margin: 10px auto 50px auto;
+  border-radius: 0;
+}
+
+img.flag {
+  margin-bottom: 3rem; 
 }

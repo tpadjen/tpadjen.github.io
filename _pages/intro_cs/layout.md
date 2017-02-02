@@ -27,8 +27,6 @@ Choose **1** example page from the list below. Make a copy of the site using you
 
 <p class="section-title callout">Example Sites</p>
 
-<p class="break"></p>
-
 <p class="site-label">Mustache Enthusiast</p><hr class="site">
 <a href="https://freewebsitetemplates.com/preview/mustacheenthusiast/index.html">
   <img class="site" src="/public/img/sites/mustache.jpg">

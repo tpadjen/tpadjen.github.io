@@ -39,37 +39,58 @@ Every part of a flag that is a solid rectangle, or can be made from a few solid 
 
 Complicated elements, such as the Canadian maple leaf or the American stars, can be images.
 
+<p class="break"></p>
 <p class="section-title callout">Flags to include (in this order)</p>
 
+<div class="rect">
 <p class="label">Libya</p>
-<br><img class="flag" src="/public/img/flags/libya.png">
+<img class="flag" src="/public/img/flags/libya.png">
+</div>
 
+<div class="rect">
 <p class="label">Germany</p>
-<br><img class="flag" src="/public/img/flags/germany.png">
+<img class="flag" src="/public/img/flags/germany.png">
+</div>
 
+<div class="rect">
 <p class="label">Ireland</p>
-<br><img class="flag" src="/public/img/flags/ireland.png">
+<img class="flag" src="/public/img/flags/ireland.png">
+</div>
 
+<div class="rect">
 <p class="label">Gambia</p>
-<br><img class="flag" src="/public/img/flags/gambia.png">
+<img class="flag" src="/public/img/flags/gambia.png">
+</div>
 
+<div class="rect">
 <p class="label">Sweden</p>
-<br><img class="flag" src="/public/img/flags/sweden.svg">
+<img class="flag" src="/public/img/flags/sweden.svg">
+</div>
 
+<div class="rect">
 <p class="label">Canada</p>
-<br><img class="flag" src="/public/img/flags/canada.png">
+<img class="flag" src="/public/img/flags/canada.png">
+</div>
 
+<div class="rect">
 <p class="label">Maldives</p>
-<br><img class="flag" src="/public/img/flags/maldives.png">
+<img class="flag" src="/public/img/flags/maldives.png">
+</div>
 
+<div class="rect">
 <p class="label">Greece</p>
-<br><img class="flag" src="/public/img/flags/greece.png">
+<img class="flag" src="/public/img/flags/greece.png">
+</div>
 
+<div class="rect">
 <p class="label">Switzerland</p>
-<br><img class="flag" src="/public/img/flags/switzerland.gif">
+<img class="flag" src="/public/img/flags/switzerland.gif">
+</div>
 
+<div class="rect">
 <p class="label">America</p>
-<br><img class="flag" src="/public/img/flags/america.png">
+<img class="flag" src="/public/img/flags/america.png">
+</div>
 
 </div>
 
