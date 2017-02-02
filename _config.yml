@@ -3,6 +3,8 @@ markdown: kramdown
 # kramdown:
 #   input: GFM
 
+highlighter: rouge
+
 # Permalinks
 #
 permalink:           /:title
@@ -10,7 +12,6 @@ permalink:           /:title
 # Setup
 title:               Brace Yourself
 url:                 https://braceyourself.io
-paginate:            10
 baseurl:             ""
 excerpt_separator: <span id="excerpt"></span>
 

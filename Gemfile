@@ -1,6 +1,8 @@
 # A sample Gemfile
 source "https://rubygems.org"
 
-gem 'github-pages'
+group :jekyll_plugins do
+  gem "github-pages", "117"
+end
 
 gem 'colorize'

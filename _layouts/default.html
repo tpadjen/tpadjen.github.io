@@ -22,7 +22,7 @@
             <i class="fa fa-bars" ng-click="toggleMenu($event)"></i>
             <ul class="dropdown" ng-if="menuSelected">
               {% for page in site.header_pages %}
-                <li><h2><a href="{{page[1]}}">{{page[0]}}</a></h2></li>
+                <li><h2><a href="{{page}}">{{page.label}}</a></h2></li>
               {% endfor %}
               <li><h2 ng-cloak><i class="fa fa-search" ng-click="toggleSearch($event)"></i></h2></li>
             </ul>
