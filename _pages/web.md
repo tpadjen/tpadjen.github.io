@@ -64,6 +64,6 @@ description: Web Design BraceYourself
 <div class="section" markdown="1">
   * [Video Lessons](https://www.youtube.com/watch?v=Qi9ooZcBBWg&list=PL2E6EED8E1A69F2A5)
 </div>
-<--></-->
+<-->
 
 </div>
