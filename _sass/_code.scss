@@ -15,6 +15,7 @@ code {
   background-color: #f9f9f9;
   border-radius: 3px;
   border: 1px solid #bbb;
+  margin-right: 0.1rem;
 }
 
 pre {
@@ -39,6 +40,7 @@ figure.highlight {
   
   code {
     border: none;
+    margin-right: inherit;
   }
 
   pre {
@@ -72,6 +74,7 @@ div.highlighter-rouge {
 
   code {
     border: none;
+    margin-right: inherit;
   }
 
   pre {
