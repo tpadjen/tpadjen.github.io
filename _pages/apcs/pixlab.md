@@ -18,30 +18,25 @@ description: APC S PixLab
 
   <p class="section-title">2</p>
   <div class="section" markdown="1">
-  In your Eclipse workspace `clone` the repo and `cd` there.
-
-{% highlight bash %}
-$ git clone http://github.com/your_username/PixLab
-$ cd PixLab
-{% endhighlight %}
+  Clone the repo into your Eclipse workspace.
   </div>
 
   <p class="section-title">3</p>
   <div class="section" markdown="1">
   Grab all of the branches<br>
   
-{% highlight bash %}
+```terminal
 $ git fetch origin
-{% endhighlight %}
+```
   </div>
 
   <p class="section-title">4</p>
   <div class="section" markdown="1">
   Change to the `a1` branch<br>
 
-{% highlight bash %}
+```terminal
 $ git checkout a1
-{% endhighlight %}
+```
   </div>
 
 </div>
@@ -89,9 +84,10 @@ Remove any unnecessary code
 * No `variables`, `methods`, or `code blocks` that were only used for **debugging**
 * Nothing that doesn't **directly contribute** to **this exercise**
 * You can quickly see only your changes:<br>
-{% highlight bash %}
+
+```terminal
 $ git diff
-{% endhighlight %}
+```
 </div>
 </div>
 
@@ -109,9 +105,9 @@ Double check that you are on the right **branch** for the activity you are curre
 <div class="section" markdown="1">
 Commit. `#` is the current exercise number.
 
-{% highlight bash %}
+```terminal
 $ git commit -m "Exercise #"
-{% endhighlight %}
+```
 
 </div>
 
