@@ -24,9 +24,9 @@ Next, use floats (plus padding and margin) to make a website showing off interes
 Every part of a flag that is a solid rectangle, or can be made from a few solid rectangles, should be a simple empty `<div>` element with a `class` that assigns a `height` and `width` using css, like in the article.
 
 <p class="label">HTML</p>
-{% highlight html %}
+```html
 <div class="rectangle"></div>
-{% endhighlight %}
+```
 
 <p class="label">CSS</p>
 {% highlight css %}
