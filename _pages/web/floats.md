@@ -1,9 +1,8 @@
 ---
----
 layout: page
-title: IntroCS
-permalink: "/intro_cs/floats/"
-description: Intro CS Floats BraceYourself Computer Science
+title: Web Design
+permalink: "/web/floats/"
+description: Web Design Floats BraceYourself Computer Science
 ---
 
 ## Floats

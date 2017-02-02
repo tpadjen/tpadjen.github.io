@@ -224,6 +224,25 @@ img.site {
 
 }
 
+.class-table-alt {
+  width: 300px;
+
+  font-size: 1.2em;
+
+  th {
+    text-align: center;
+
+    background: #414141;
+    color: white;
+
+    width: 300px;
+  }
+
+  td {
+    padding-left: 2em;
+  }
+}
+
 .spaced {
   margin-bottom: 1em;
 }

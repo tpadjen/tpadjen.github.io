@@ -1,13 +1,11 @@
 ---
 layout: page
-title: Intro to CS
-permalink: "/intro_cs/"
-description: Intro CS BraceYourself Computer Science
+title: Web Design
+permalink: "/web/"
+description: Web Design BraceYourself
 ---
 
-> Computers are useless, they can only give you answers.
->
-> &mdash; <cite>Pablo Picasso</cite>
+> Give a person a fish and you feed them for a day; teach that person to use the Internet and they won't bother you for weeks.
 
 
 ## Assignments
@@ -58,6 +56,7 @@ description: Intro CS BraceYourself Computer Science
   * [Designers List](http://www.designerslist.info/)
 </div>
 
+
 <!--
 <hr>
 
@@ -65,6 +64,6 @@ description: Intro CS BraceYourself Computer Science
 <div class="section" markdown="1">
   * [Video Lessons](https://www.youtube.com/watch?v=Qi9ooZcBBWg&list=PL2E6EED8E1A69F2A5)
 </div>
--->
+<--></-->
 
 </div>

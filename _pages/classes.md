@@ -16,7 +16,7 @@ description: Classes BraceYourself
 | 1      | [Multimedia 1](/mm1)                   |
 | 2      | [Intro to PC Apps](/pc_apps)           |
 | 3      | [Intro to Computer Science](/intro_cs) |
-| 4      | [Web Design](/web_design)              |
+| 4      | [Web Design](/web)                     |
 | 5      | [AP Computer Science](/apcs)           |
 
 
