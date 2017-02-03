@@ -26,6 +26,7 @@ description: Web Design BraceYourself
 ### HTML
 <div class="section" markdown="1">
 
+* [Sublime Setup](/sublime)
 * Guides - [HTML Dog - HTML](http://www.htmldog.com/guides/html/)
 * [HTML5 Cheat Sheet](http://websitesetup.org/HTML5-cheat-sheet.pdf)
 
