@@ -52,7 +52,7 @@ Complete the first **3** activities.
 When you see a **question** answer it in `answers.md`.<br>Commit at the end of a **section** of questions.
 </div>
 
-<p class="section-title">Exercises</p>
+<p class="section-title" id="process">Exercises</p>
 <div class="section" markdown="1">
 When you see an **exercise** follow this **7 step process**:
 

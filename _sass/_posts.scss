@@ -288,3 +288,45 @@ img.site {
 img.flag {
   margin-bottom: 3rem; 
 }
+
+.section dl {
+  margin-left: 1rem;
+
+  dt {
+    float: left;
+    clear: both;
+    min-width: 100px;
+  }
+
+  dd {
+    float: left;
+  }
+}
+
+table.borderless {
+
+  border: none;
+
+  tr, td {
+    border: none;
+  }
+
+}
+
+table.nolines {
+  tr, td {
+    background: white !important;
+  }
+}
+
+table.inset {
+  margin-left:  1rem;
+
+}
+
+table.sized {
+  
+  font-size: 1rem;
+  line-height: 1.4rem;
+
+}
