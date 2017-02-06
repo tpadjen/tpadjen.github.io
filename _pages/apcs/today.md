@@ -8,7 +8,7 @@ description: AP CS Today's Activity
 <h2>Activity <span id="date"></span></h2>
 <script src="/public/js/today.js"></script>
 
-Complete `Activity 4` of before class on Monday. Follow the [7 step process](../pixlab#process) for completing the Exercises.
+<!-- Complete `Activity 4` before class on Monday. Follow the [7 step process](../pixlab#process) for completing the Exercises.
 
 Do **Not** move on to `Activity 5` yet. Work on [codingbat](http://codingbat.com) if you finish early.
 
@@ -27,9 +27,7 @@ The activity uses `Objects` and `2D arrays` extensively. If you need help with t
     <td><span class="arrow">▶</span></td>
     <td><a href="https://chortle.ccsu.edu/Java5/Notes/chap49C/ch49C_1.html">Chapter 49C</a> on Chortle</td>
   </tr>
-</table>
-
-<!--
+</table> -->
 
 <div class="section" markdown="1">
 If you are currently working on a specific project, continue. Otherwise, you have a few choices for today.
@@ -51,5 +49,3 @@ If you are currently working on a specific project, continue. Otherwise, you hav
 * [Codingbat](http://codingbat.com)
 </div>
 </div>
-
--->
