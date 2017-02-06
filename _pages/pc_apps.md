@@ -117,7 +117,7 @@ description: Intro to PC Apps BraceYourself
 <h4 class="boxed">On Your Own</h4>
 <div markdown="1" class="box own">
 
-  1. Case Problem 1 - [Files]({{ site.baseurl }}/docs/pc_apps/word/tutorial2/WordCaseProblem_4-1.zip)
-  2. Case Problem 3 - [Files]({{ site.baseurl }}/docs/pc_apps/word/tutorial2/WordCaseProblem_4-3.zip)
+  1. Case Problem 1 - [Files]({{ site.baseurl }}/docs/pc_apps/word/tutorial4/WordCaseProblem_4-1.zip)
+  2. Case Problem 3 - [Files]({{ site.baseurl }}/docs/pc_apps/word/tutorial4/WordCaseProblem_4-3.zip)
 
 </div>
