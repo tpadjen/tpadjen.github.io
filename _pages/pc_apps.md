@@ -121,3 +121,39 @@ description: Intro to PC Apps BraceYourself
   2. Case Problem 3 - [Files]({{ site.baseurl }}/docs/pc_apps/word/tutorial4/WordCaseProblem_4-3.zip)
 
 </div>
+
+### Word Final Project
+
+<div class="section" markdown="1">
+  [Create a Theme Park]({{ site.baseurl }}/docs/pc_apps/word/WordFinalProject.pdf)
+</div>
+
+<!--
+
+## Excel
+
+### Tutorial 1
+
+### Tutorial 3
+
+<h4 class="boxed">With Your Partner</h4>
+<div markdown="1" class="box partner">
+
+  1. Tutorial 1 - [Files]({{ site.baseurl }}/docs/pc_apps/excel/tutorial1/ExcelTutorial1.zip)
+  2. Quick Check 1.1
+  3. Quick Check 1.2
+  4. Review - [Files]({{ site.baseurl }}/docs/pc_apps/excel/tutorial1/ExcelReview1.zip)
+
+</div>
+
+<hr class="boxed">
+
+<h4 class="boxed">On Your Own</h4>
+<div markdown="1" class="box own">
+
+  1. Case Problem 3
+  2. Case Problem 4
+
+</div>
+
+-->
