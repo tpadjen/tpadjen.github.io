@@ -71,13 +71,21 @@ Fee: $93.00 through February, $118 afterward <br>
   
 Due **April 30th**
 
+<p id="enroll" class="section-title">Enrollment</p>
+<div class="section" markdown="1">
+You must set up an account with **College Board** and link your **Digital Portfolio** to our class. Here's [instructions for enrolling](https://secure-media.collegeboard.org/digitalServices/pdf/ap/computer-science-principles-digital-portfolio-student-guide.pdf).
+</div>
+
 <p class="section-title">Task Summaries</p>
+<div class="section" markdown="1">
 1. [Explore Task](/apcsp/explore)
 2. [Create Task](/apcsp/create)
+</div>
 
 <p class="section-title">Submission</p>
+<div class="section" markdown="1">
 [AP Digital Portfolio - Student User Guide](https://secure-media.collegeboard.org/digitalServices/pdf/ap/computer-science-principles-digital-portfolio-student-guide.pdf)
-
+</div>
 </div>
 
 ### Exam Day
