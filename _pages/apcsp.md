@@ -1,7 +1,7 @@
 ---
 layout: page
 title: APCS Principles
-permalink: "/apcsp"
+permalink: "/apcsp/"
 description: APCSP BraceYourself AP Computer Science Principles
 ---
 
