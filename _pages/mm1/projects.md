@@ -5,14 +5,6 @@ permalink: "/mm1/projects/"
 description: MM1 Projects BraceYourself Multimedia 1
 ---
 
-  * [Illustrator](#illustrator)
-  * [Video Editing](#video)
-  * [Special Effects](#effects)
-  * [Photoshop](#photo)
-  * [3d Modeling](#threed)
-  * [Web Design](#web)
-
-
 <span id="illustrator"></span>
 
 ## Illustrator
@@ -72,6 +64,62 @@ There should not be any other drawings in the files you submit, and the `svg and
 
 <br>
 
+<span id="photo"></span>
+
+## Photoshop
+
+Your team has been hired to star in a new Superhero movie. You must create a series of posters to promote the movie.
+
+First, decide what the name of your team of Superheroes will be.
+
+Next, each person should create an idea for a **new**, **unique** Superhero. **You may not use an existing character!** Superheroes need the following things:
+
+  * At least one Super power
+  * A Superhero name
+  * A real name
+  * A background story
+
+Next, individually create 2 promotional posters showing off your hero. 
+
+1. Your hero's everyday persona.
+2. Your hero in costume and using their super-power. 
+
+Both posters should display relevant info, like the character's name and the movie's title.
+
+Finally, together create a final group poster showing off all of the team's characters.
+
+<h3 class="done">Turn In</h3>
+
+All posters must  be submitted in two versions, `svg and psd`. 
+
+The `jpg` images for the posters-shirts should be either **1200 x 900 px** or **900 x 1200px**, depending on if they are designed in landscape or portrait.
+
+Both posters have to demonstrate a solid understanding and use of Photoshop layers, blending modes, effects, and filters.
+
+<p class="figure-title">Checklist</p>
+<table class="checklist">
+  <tbody>
+    <tr class="numbers">
+      <td>1</td>
+      <td>Alter ego poster</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>Superhero poster</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>Team poster</td>
+    </tr>
+  </tbody>
+</table>
+
+<br>
+
+<hr>
+
+<br>
+
 <span id="video"></span>
 
 ## Video Editing
@@ -107,26 +155,6 @@ Finally, individually create your own version of a documentary video about your 
 <span id="effects"></span>
 
 ## Special Effects
-
-
-<span id="photo"></span>
-
-## Photoshop
-
-Your team has been hired to star in a new Superhero movie. You must create a series of posters to promote the movie.
-
-First, decide what the name of your team of Superheroes will be.
-
-Next, each person should create an idea for a **new**, **unique** Superhero. **You may not use an existing character!** Superheroes need the following things:
-
-  * At least one Super power
-  * A Superhero name
-  * A real name
-  * A background story
-
-Next, individually create 2 similar promotional posters showing off your hero. The first poster should be your hero's everyday persona. The second poster should show off the hero's powers. All posters should display relevant info, like the character's name and the movie's title.
-
-Finally, together create a final group poster showing off all of the team's characters.
 
 <span id="threed"></span>
 
