@@ -49,10 +49,24 @@
     margin-top: -20px;
   }
 
+  p.warning, p.caution {
+    padding: 1rem !important;
+    text-align: center;
+    border-radius: 2px;
+
+    strong {
+      color: white !important;
+    }
+  }
+
+  p.warning {
+    color: white;
+    background: #B0022D;
+  }
+
   p.caution {
     background: #BEC40C;
     color: white;
-    padding: 1rem !important;
   }
 
   // pre {
