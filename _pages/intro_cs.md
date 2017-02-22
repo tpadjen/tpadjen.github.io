@@ -21,6 +21,12 @@ description: Intro CS BraceYourself Computer Science
 
 <hr>
 
+## Karel
+
+[Karel the Robot Levels](karel)
+
+<hr>
+
 ## Resources
 
 <div class="section" markdown="1">
