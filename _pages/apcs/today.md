@@ -8,6 +8,12 @@ description: AP CS Today's Activity
 <h2>Activity <span id="date"></span></h2>
 <script src="/public/js/today.js"></script>
 
+<div class="section" markdown="1">
+
+[Java Chortle](https://chortle.ccsu.edu/cs151/cs151java.html) Exercises for Chapters 30-25
+
+</div>
+
 <!-- Complete `Activity 4` before class on Monday. Follow the [7 step process](../pixlab#process) for completing the Exercises.
 
 Do **Not** move on to `Activity 5` yet. Work on [codingbat](http://codingbat.com) if you finish early.
@@ -29,7 +35,7 @@ The activity uses `Objects` and `2D arrays` extensively. If you need help with t
   </tr>
 </table> -->
 
-<div class="section" markdown="1">
+<!-- <div class="section" markdown="1">
 If you are currently working on a specific project, continue. Otherwise, you have a few choices for today.
 
 </div>
@@ -48,4 +54,4 @@ If you are currently working on a specific project, continue. Otherwise, you hav
 * Find an interesting, new, or important chapter of [Java Chortle](https://chortle.ccsu.edu/cs151/cs151java.html) to investigate. Take the quizzes and write the exercises.
 * [Codingbat](http://codingbat.com)
 </div>
-</div>
+</div> -->

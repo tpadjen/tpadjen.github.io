@@ -9,10 +9,11 @@ description: MM1 Today's Activity
 <script src="/public/js/today.js"></script>
 
 <div class="section" markdown="1">
-If you are currently working on a specific project, continue. Otherwise, choose the activity below for the rotation we are on.
+<!-- If you are currently working on a specific project, continue. Otherwise, choose the activity below for the rotation we are on. -->
+Complete the <strong>3</strong> Photoshop projects -> the <code>MVHS Poster</code>, <code>Vista Destinations</code>, and [Superhero](../projects). Make sure to have a <code>jpg</code> and <code>psd</code> version of each. Make a folder for each project in your Google Drive and make sure I have access to it. You also need to have <strong>four</strong> Photoshop blog posts finished.
 </div>
 
-<p class="label">Web Design</p>
+<!-- <p class="label">Web Design</p>
 <div class="section" markdown="1">
   Complete [Codecademy's HTML & CSS lessons](https://www.codecademy.com/learn/web), or choose another lesson if you have completed that one.
 </div>
@@ -35,4 +36,4 @@ If you are currently working on a specific project, continue. Otherwise, choose 
 <p class="label">3D Modeling</p>
 <div class="section" markdown="1">
   Create a 3D model of a specific model of car that you like. Add as much detail as possible.
-</div>
+</div> -->

@@ -9,5 +9,6 @@ description: Web Design Today's Activity
 <script src="/public/js/today.js"></script>
 
 <div class="section" markdown="1">
-If you are currently working on a specific project, continue. Otherwise, complete a relevant or new lesson on [Codecademy](https://www.codecademy.com).
+<!-- If you are currently working on a specific project, continue. Otherwise, complete a relevant or new lesson on [Codecademy](https://www.codecademy.com). -->
+Continue working on the <code>Photography Website</code> project. Should you finish, complete a relevant or new lesson on [Codecademy](https://www.codecademy.com).
 </div>

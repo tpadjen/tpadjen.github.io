@@ -9,5 +9,6 @@ description: Intro to PC Apps Today's Activity
 <script src="/public/js/today.js"></script>
 
 <div class="section" markdown="1">
-If you are currently working on a specific project, continue. Otherwise, complete [Codecademy's HTML & CSS lessons](https://www.codecademy.com/learn/web) or choose another lesson if you have completed that one.
+<!-- If you are currently working on a specific project, continue. Otherwise, complete [Codecademy's HTML & CSS lessons](https://www.codecademy.com/learn/web) or choose another lesson if you have completed that one. -->
+Finish the [Final Word Project]({{ site.baseurl }}/docs/pc_apps/word/WordFinalProject.pdf) and share it with me before the end of the week.
 </div>
