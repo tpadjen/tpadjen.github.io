@@ -1,0 +1,49 @@
+.excel {
+
+  h3 {
+    background: green;
+  }
+
+  .files {
+    margin-bottom: 0;
+  }
+
+}
+
+.word {
+
+  h3 {
+    background: blue;
+  }
+
+  .tutorial {
+    border-color: blue;
+  }
+
+}
+
+.excel, .word {
+  h3 {
+    display: inline-block;
+    padding: 0.5rem 1rem;
+    border-radius: 2px;
+    color: white;
+  }
+}
+
+.tutorial {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  border: 1px solid green;
+  padding-right: 1rem;
+  padding-top: 0px;
+  padding-bottom: 1rem;
+
+  h3 {
+    margin-top: 0rem;
+    margin-bottom: 0rem;
+    position: relative;
+    bottom: 1rem;
+    left: 1rem;
+  }
+}

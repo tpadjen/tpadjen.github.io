@@ -28,8 +28,11 @@ description: Intro to PC Apps BraceYourself
   3. Review pg FM 30 - [Files]({{ site.baseurl }}/docs/pc_apps/fm/Review.zip)
   3. Case Problem 1 pg FM 31 - [Files]({{ site.baseurl }}/docs/pc_apps/fm/Case1.zip)
 
+<div class="word" markdown="1">
+
 ## Word
 
+<div class="tutorial" markdown="1">
 ### Tutorial 1
 
 <h4 class="boxed">With Your Partner</h4>
@@ -54,7 +57,9 @@ description: Intro to PC Apps BraceYourself
   3. Case Problem 3 pg WD 59 - [Files]({{ site.baseurl }}/docs/pc_apps/word/tutorial1/WordCaseProblem_1-3.zip)
   4. Case Problem 4 pg WD 60
 </div>
+</div>
 
+<div class="tutorial" markdown="1">
 ### Tutorial 2
 
 <h4 class="boxed">With Your Partner</h4>
@@ -78,6 +83,9 @@ description: Intro to PC Apps BraceYourself
 
 </div>
 
+</div>
+
+<div class="tutorial" markdown="1">
 ### Tutorial 3
 
 <h4 class="boxed">With Your Partner</h4>
@@ -99,7 +107,9 @@ description: Intro to PC Apps BraceYourself
   2. Case Problem 4
 
 </div>
+</div>
 
+<div class="tutorial" markdown="1">
 ### Tutorial 4
 
 <h4 class="boxed">With Your Partner</h4>
@@ -121,28 +131,35 @@ description: Intro to PC Apps BraceYourself
   2. Case Problem 3 - [Files]({{ site.baseurl }}/docs/pc_apps/word/tutorial4/WordCaseProblem_4-3.zip)
 
 </div>
+</div>
 
+<div class="tutorial" markdown="1">
 ### Word Final Project
 
 <div class="section" markdown="1">
   [Create a Theme Park]({{ site.baseurl }}/docs/pc_apps/word/WordFinalProject.pdf)
 </div>
 
-<!--
+</div>
+</div>
+
+
+<div class="excel" markdown="1">
 
 ## Excel
 
-### Tutorial 1
+<p class="files" markdown="1">[All Excel Files](/docs/pc_apps/excel/Excel.zip)</p>
 
-### Tutorial 3
+<div class="tutorial" markdown="1">
+### Tutorial 1
 
 <h4 class="boxed">With Your Partner</h4>
 <div markdown="1" class="box partner">
 
-  1. Tutorial 1 - [Files]({{ site.baseurl }}/docs/pc_apps/excel/tutorial1/ExcelTutorial1.zip)
+  1. Tutorial 1
   2. Quick Check 1.1
   3. Quick Check 1.2
-  4. Review - [Files]({{ site.baseurl }}/docs/pc_apps/excel/tutorial1/ExcelReview1.zip)
+  4. Review
 
 </div>
 
@@ -151,9 +168,85 @@ description: Intro to PC Apps BraceYourself
 <h4 class="boxed">On Your Own</h4>
 <div markdown="1" class="box own">
 
-  1. Case Problem 3
-  2. Case Problem 4
+  1. Case Problem 2
+  2. Case Problem 3
+  3. Case Problem 4
+
+</div>
+</div>
+
+<div class="tutorial" markdown="1">
+### Tutorial 2
+
+<h4 class="boxed">With Your Partner</h4>
+<div markdown="1" class="box partner">
+
+  1. Tutorial 2
+  2. Quick Check 2.1
+  3. Quick Check 2.2
+  4. Review
 
 </div>
 
--->
+<hr class="boxed">
+
+<h4 class="boxed">On Your Own</h4>
+<div markdown="1" class="box own">
+
+  1. Case Problem 2
+  2. Case Problem 4
+
+</div>
+</div>
+
+<div class="tutorial" markdown="1">
+### Tutorial 3
+
+<h4 class="boxed">With Your Partner</h4>
+<div markdown="1" class="box partner">
+
+  1. Tutorial 3
+  2. Quick Check 3.1
+  3. Quick Check 3.2
+  4. Review
+
+</div>
+
+<hr class="boxed">
+
+<h4 class="boxed">On Your Own</h4>
+<div markdown="1" class="box own">
+
+  1. Case Problem 1
+  2. Case Problem 2
+  3. Case Problem 4
+
+</div>
+</div>
+
+<div class="tutorial" markdown="1">
+### Tutorial 4
+
+<h4 class="boxed">With Your Partner</h4>
+<div markdown="1" class="box partner">
+
+  1. Tutorial 4
+  2. Quick Check 4.1
+  3. Quick Check 4.2
+  4. Review
+
+</div>
+
+<hr class="boxed">
+
+<h4 class="boxed">On Your Own</h4>
+<div markdown="1" class="box own">
+
+  1. Case Problem 1
+  2. Case Problem 2
+  3. Case Problem 3
+
+</div>
+</div>
+
+</div>
