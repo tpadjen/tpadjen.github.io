@@ -23,6 +23,6 @@ Level 4  - [Info](4) - [Files](/public/files/karel/4.zip)
 
 Level 5  - [Info](5) - [Files](/public/files/karel/5.zip)
 
-<!-- Level 6  - [Info](6) - [Files](/public/files/karel/6.zip)
+Level 6  - [Info](6) - [Files](/public/files/karel/6.zip)
 
-Level 7  - [Info](7) - [Files](/public/files/karel/7.zip) -->
+<!-- Level 7  - [Info](7) - [Files](/public/files/karel/7.zip) -->
