@@ -13,6 +13,10 @@ description: MM1 BraceYourself Multimedia 1
 
 ## [Daily Blog Post](/mm1/daily-blog-post)
 
+## Premiere
+
+[Faster, Fresher, More Exciting on Skillshare](http://skl.sh/2lkda9K)
+
 ## Photoshop
   
 Sign up for [this free Udemy Photoshop Class](http://www.udemy.com/learn-adobe-photoshop-from-scratch). Pick one of these **2 paths**:
