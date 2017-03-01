@@ -15,7 +15,13 @@ description: MM1 BraceYourself Multimedia 1
 
 ## Premiere
 
-[Faster, Fresher, More Exciting on Skillshare](http://skl.sh/2lkda9K)
+<!-- [Faster, Fresher, More Exciting on Skillshare](http://skl.sh/2lkda9K) -->
+
+#### Free Resources
+
+* [Videoblocks](http://www.videoblocks.com/authorize)
+* [Audioblocks](http://www.audioblocks.com/authorize)
+* [Youtube Music Library](http://www.youtube.com/audiolibrary/music)
 
 ## Photoshop
   
