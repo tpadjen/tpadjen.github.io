@@ -19,8 +19,8 @@ description: MM1 BraceYourself Multimedia 1
 
 #### Free Resources
 
-* [Videoblocks](http://www.videoblocks.com/authorize)
-* [Audioblocks](http://www.audioblocks.com/authorize)
+* [Videoblocks](https://www.videoblocks.com/authorize)
+* [Audioblocks](https://www.audioblocks.com/authorize)
 * [Youtube Music Library](http://www.youtube.com/audiolibrary/music)
 
 ## Photoshop
