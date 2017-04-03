@@ -247,6 +247,16 @@ description: Intro to PC Apps BraceYourself
   3. Case Problem 3
 
 </div>
+
+</div>
+
+<div class="tutorial" markdown="1">
+### Excel Final Project
+
+<div class="section" markdown="1">
+  [Create a Budget for College]({{ site.baseurl }}/docs/pc_apps/excel/CollegeBudget.zip)
+</div>
+
 </div>
 
 </div>
