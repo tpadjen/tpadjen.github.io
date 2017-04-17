@@ -1,3 +1,19 @@
+.powerpoint {
+
+  h3 {
+    background: #e58106;
+  }
+
+  .files {
+    margin-bottom: 0;
+  }
+
+  .tutorial {
+    border-color: #e58106;
+  }
+
+}
+
 .excel {
 
   h3 {
@@ -6,6 +22,10 @@
 
   .files {
     margin-bottom: 0;
+  }
+
+  .tutorial {
+    border-color: green;
   }
 
 }
@@ -22,7 +42,7 @@
 
 }
 
-.excel, .word {
+.excel, .word, .powerpoint {
   h3 {
     display: inline-block;
     padding: 0.5rem 1rem;
