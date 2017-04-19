@@ -13,11 +13,17 @@ description: Intro CS BraceYourself Computer Science
 ## Assignments
 
 <div class="section" markdown="1">
-  
+
 1. [Floats](floats)
 2. [Layout](layout)
 
 </div>
+
+<hr>
+
+## Space Invaders
+
+[Space Invaders](invaders)
 
 <hr>
 
@@ -39,7 +45,7 @@ description: Intro CS BraceYourself Computer Science
 * [HTML5 Cheat Sheet](http://websitesetup.org/HTML5-cheat-sheet.pdf)
 
 </div>
-  
+
 #### Style
 <div class="section" markdown="1">
 * Guides: [HTML Dog - CSS](http://www.htmldog.com/guides/css/)
