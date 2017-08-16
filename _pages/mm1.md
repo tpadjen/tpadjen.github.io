@@ -13,17 +13,22 @@ description: MM1 BraceYourself Multimedia 1
 
 ## [Daily Blog Post](/mm1/daily-blog-post)
 
-## Premiere
+<!--## Premiere-->
 
 <!-- [Faster, Fresher, More Exciting on Skillshare](http://skl.sh/2lkda9K) -->
 
-#### Free Resources
+<!--#### Free Resources
 
 * [Videoblocks](https://www.videoblocks.com/authorize)
 * [Audioblocks](https://www.audioblocks.com/authorize)
-* [Youtube Music Library](http://www.youtube.com/audiolibrary/music)
+* [Youtube Music Library](http://www.youtube.com/audiolibrary/music)-->
 
-## Photoshop
+## Illustrator
+
+Download the [course overview](https://drive.google.com/a/dcsdk12.org/file/d/0B2E_0TgQPuOYbkEzTFVheVA2Mjg/view?usp=sharing) and the [course project folder](https://drive.google.com/a/dcsdk12.org/file/d/0B2E_0TgQPuOYRy1VZHY1bHdybkU/view?usp=sharing).
+
+
+<!--## Photoshop
   
 Sign up for [this free Udemy Photoshop Class](http://www.udemy.com/learn-adobe-photoshop-from-scratch). Pick one of these **2 paths**:
 
@@ -44,7 +49,7 @@ Sign up for [this free Udemy Photoshop Class](http://www.udemy.com/learn-adobe-p
 * Practice along with the videos
 </div>
 
-</div>
+</div>-->
 
 ## [Projects](/mm1/projects)
 
