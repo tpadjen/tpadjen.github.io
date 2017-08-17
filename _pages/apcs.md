@@ -9,7 +9,9 @@ description: AP CS BraceYourself AP Computer Science
 >
 > &mdash; <cite>Douglas Adams</cite>
 
-## Exam
+[Ruby Setup](/apcs/ruby_setup)
+
+<!--## Exam
 
 <div class="section" markdown="1">
 
@@ -23,4 +25,4 @@ description: AP CS BraceYourself AP Computer Science
 
 [PixLab](/apcs/pixlab)
 
-</div>
+</div>-->
