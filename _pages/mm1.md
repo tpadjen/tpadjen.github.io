@@ -25,7 +25,7 @@ description: MM1 BraceYourself Multimedia 1
 
 ## Illustrator
 
-Download the [course overview](https://drive.google.com/a/dcsdk12.org/file/d/0B2E_0TgQPuOYbkEzTFVheVA2Mjg/view?usp=sharing) and the [course project folder](https://drive.google.com/a/dcsdk12.org/file/d/0B2E_0TgQPuOYRy1VZHY1bHdybkU/view?usp=sharing).
+Download the [course overview](https://drive.google.com/a/dcsdk12.org/file/d/0B2E_0TgQPuOYbkEzTFVheVA2Mjg/view?usp=sharing) and the [course project folder](https://drive.google.com/a/dcsdk12.org/file/d/0B2E_0TgQPuOYenBpek90UTZueWc/view?usp=sharing).
 
 
 <!--## Photoshop
