@@ -7,11 +7,18 @@ description: APCSP BraceYourself AP Computer Science Principles
 
 <div class="section" markdown="1">
 
-[Official Course Website](https://apstudent.collegeboard.org/apcourse/ap-computer-science-principles)
+[AP Board Official Course Website](https://apstudent.collegeboard.org/apcourse/ap-computer-science-principles)
 
 </div>
 
-## Exam
+## Python
+
+<div class="section" markdown="1">
+  [Book](https://drive.google.com/a/dcsdk12.org/file/d/0B2E_0TgQPuOYOVFsZDJRbndwRms/view?usp=sharing)
+</div>
+
+
+<!--## Exam
 
 ### Plan
 
@@ -128,4 +135,4 @@ Other resources:
 
 </div>
 
-</div>
+</div>-->
