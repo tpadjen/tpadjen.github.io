@@ -13,7 +13,10 @@ description: APCSP BraceYourself AP Computer Science Principles
 
 ## Python
 
+
 <div class="section" markdown="1">
+  [Python Setup](/apcs/python_setup)
+  
   [Book](https://drive.google.com/a/dcsdk12.org/file/d/0B2E_0TgQPuOYOVFsZDJRbndwRms/view?usp=sharing)
 </div>
 
