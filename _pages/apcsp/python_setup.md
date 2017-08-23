@@ -41,7 +41,7 @@ Create a text file with the name of the command you want to use (subl in this ca
 
 ```
 #!/bin/sh
-"C:\Program Files\Sublime Text 3\sublime_text.exe" $1 &
+"C:\Program Files\Sublime Text 3\subl.exe" $1 &
 ```
 
 
