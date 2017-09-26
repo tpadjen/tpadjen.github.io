@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Vide Game Design
+title: Video Game Design
 permalink: "/game_design/"
 description: MM1 BraceYourself Video Game Design
 ---

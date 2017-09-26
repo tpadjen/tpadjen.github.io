@@ -10,18 +10,16 @@ description: Today's Activity BraceYourself
 
 <h2 id="date"></h2>
 
-<div class="class-table-alt" markdown="1">
+<div class="class-table" markdown="1">
 
-| Class                                        |
-|----------------------------------------------|
-| [Multimedia 1](/mm1/today)                   |
-| [Intro to PC Apps](/pc_apps/today)           |
-| [Intro to Computer Science](/intro_cs/today) |
-| [Web Design](/web/today)                     |
-| [AP Computer Science](/apcs/today)           |
+| Period | Class                                          |
+|--------|------------------------------------------------|
+| 1      | [AP Computer Science Principles](/apcsp/today) |
+| 2      | [Intro to Computer Science](/intro_cs/today)   |
+| 3      | [Multimedia 1](/mm1/today)                     |
+| 4      | [AP Computer Science A](/apcs/today)           |
+| 7      | [Video Game Design](/game_design/today)        |
 
-
-</div>
 </div>
 
 <!--

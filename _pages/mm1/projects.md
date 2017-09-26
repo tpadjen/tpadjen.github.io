@@ -11,11 +11,11 @@ description: MM1 Projects BraceYourself Multimedia 1
 
 Your team has been approached by Nike. Tired of the swoosh and the slogan "Just Do It", they need a new marketing campaign. They are accepting bids for the new contract at the end of the week.
 
- * First, as a team, create a new slogan and a general idea for a new logo. Neither the slogan or the logo may be the same as those of an existing company. Google your slogan idea to make sure it is original. 
+ * First, as a team, create a new slogan and a general idea for a new logo. Neither the slogan or the logo may be the same as those of an existing company. Google your slogan idea to make sure it is original.
 
  * Then, each team member should create their own version of the logo and slogan. All designing must be your own original work created in Illustrator.
 
- * Next, each team member should create a t-shirt design that prominintly displays the logo and slogan, plus some other unique and creative design features that would make customers want to purchase the shirt. 
+ * Next, each team member should create a t-shirt design that prominintly displays the logo and slogan, plus some other unique and creative design features that would make customers want to purchase the shirt.
 
  * Design both the front and back of the shirt. Use the template t-shirt below as a background image. Be sure to trace the outline of the image so the shirt is part of the vector drawing you create, then remove the image when you are done.
 
@@ -30,11 +30,11 @@ Your team has been approached by Nike. Tired of the swoosh and the slogan "Just 
 
 <h3 class="done">Turn In</h3>
 
-All <strong>4</strong> illustrations must each be submitted in three versions, `ai, svg, and png`. 
+All <strong>4</strong> illustrations must each be submitted in three versions, `ai, svg, and png`.
 
-The `png` images for the t-shirts should be exactly **750x500 px**. The size of your images for the slogan and logo might be slightly different if your design does not fit in that size rectangle, but stay as close to the same size as possible. 
+The `png` images for the t-shirts should be exactly **750x500 px**. The size of your images for the slogan and logo might be slightly different if your design does not fit in that size rectangle, but stay as close to the same size as possible.
 
-There should not be any other drawings in the files you submit, and the `svg and png` versions should not have excessive space around them.  
+There should not be any other drawings in the files you submit, and the `svg and png` versions should not have excessive space around them.
 
 <p class="figure-title">Checklist</p>
 <table class="checklist">
@@ -79,10 +79,10 @@ Next, each person should create an idea for a **new**, **unique** Superhero. **Y
   * A real name
   * A background story
 
-Next, individually create 2 promotional posters showing off your hero. 
+Next, individually create 2 promotional posters showing off your hero.
 
 1. Your hero's everyday persona.
-2. Your hero in costume and using their super-power. 
+2. Your hero in costume and using their super-power.
 
 Both posters should display relevant info, like the character's name and the movie's title.
 
@@ -90,9 +90,9 @@ Finally, together create a final group poster showing off all of the team's char
 
 <h3 class="done">Turn In</h3>
 
-All posters must  be submitted in two versions, `svg and psd`. 
+All posters must  be submitted in two versions, `jpg (or png) and psd`.
 
-The `jpg` images for the posters-shirts should be either **1200 x 900 px** or **900 x 1200px**, depending on if they are designed in landscape or portrait.
+The `jpg (or png)` images for the posters-shirts should be either **1200 x 900 px** or **900 x 1200px**, depending on if they are designed in landscape or portrait.
 
 Both posters have to demonstrate a solid understanding and use of Photoshop layers, blending modes, effects, and filters.
 

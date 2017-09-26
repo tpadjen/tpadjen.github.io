@@ -1,6 +1,6 @@
 ---
 layout: page
-title: MM1
+title: MM1 Today
 permalink: "/mm1/today/"
 description: MM1 Today's Activity
 ---
@@ -10,7 +10,13 @@ description: MM1 Today's Activity
 
 <div class="section" markdown="1">
 <!-- If you are currently working on a specific project, continue. Otherwise, choose the activity below for the rotation we are on. -->
-Complete the <strong>3</strong> Photoshop projects -> the <code>MVHS Poster</code>, <code>Vista Destinations</code>, and [Superhero](../projects). Make sure to have a <code>jpg</code> and <code>psd</code> version of each. Make a folder for each project in your Google Drive and make sure I have access to it. You also need to have <strong>four</strong> Photoshop blog posts finished.
+Work on the <strong>3</strong> Photoshop projects.
+
+**Week 1** - <code>MVHS Poster</code><br>
+**Week 2** - <code>Travel Advertisements</code><br>
+**Week 3** - [Superhero Team](../projects/#photoshop)<br>
+
+Make sure to have a <code>jpg</code> and <code>psd</code> version of each placed in Google Drive multimedia folder.  You also need to have <strong>six</strong> Photoshop blog posts finished by the end of the week.
 </div>
 
 <!-- <p class="label">Web Design</p>
