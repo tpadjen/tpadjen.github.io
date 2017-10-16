@@ -26,3 +26,7 @@ Level 5  - [Info](5) - [Files](/public/files/karel/5.zip)
 Level 6  - [Info](6) - [Files](/public/files/karel/6.zip)
 
 Level 7  - [Info](7) - [Files](/public/files/karel/7.zip)
+
+Variables - [Files](/public/files/karel/Variables.zip)
+
+Level 8  - [Files](/public/files/karel/8.zip)
