@@ -20,6 +20,8 @@ description: APCSP BraceYourself AP Computer Science Principles
   [Book](https://drive.google.com/a/dcsdk12.org/file/d/0B2E_0TgQPuOYOVFsZDJRbndwRms/view?usp=sharing)
 </div>
 
+[Accumulation Pattern](/apcsp/accumulation)
+
 
 <!--## Exam
 
