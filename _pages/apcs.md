@@ -19,6 +19,8 @@ description: AP CS BraceYourself AP Computer Science
 
 [Food Data](/public/files/apcs/Food.xlsx)
 
+[Gosu Basketball](https://github.com/mvhs-apcs/basketball) -> Images not included, you must download your own
+
 <!--## Exam
 
 <div class="section" markdown="1">
