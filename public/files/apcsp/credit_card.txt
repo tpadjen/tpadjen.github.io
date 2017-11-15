@@ -1,0 +1,44 @@
+APCSP
+=====
+
+A 16 digit credit card number is created by making a 15 digit random number, then adding a single digit to the end known as the check digit. The check digit is carefully designed so that a card number can be tested for validity. A number is valid if (and only if) it satisfies a simple mathematical test that involves manipulating the credit card number, adding it up, and checking to see if it’s evenly divisible by ten. Websites, stores, and vendors can use this algorithm to help fix typos when entering info, and prevent the use of fake numbers.
+
+Here’s how to test whether or not a credit card number is valid:
+
+	0) Double alternating digits starting with the first digit in the sequence.
+	
+	1) If the doubling resulted in a number with two digits, add them together to get a single digit number
+	
+	2) Go back to the original credit number and replace the digits that you doubled with the new value — either the doubled value, or the doubled value with the digits added together — and add it all up.
+	
+	3) Check to see if the sum is evenly divisible by 10 (you can simply look to see whether or not it ends with a zero). If the card number does not pass this check, then it is not a valid number.
+
+Example
+-------
+Let's test a number: 5424 1801 2345 6789.
+
+We’ll start by doubling the 1st, 3rd, etc. digits and then summing as outlined above. I’ve highlighted the doubled (and in some cases summed) values in parentheses, below. I’ve also quoted the check digit.
+
+(1+0) + 4 + (4) + 4 + (2) + 8 + (0) + 1 + (4) + 3 + (8) + 5 + (1+2) + 7 + (1+6) + "9"
+
+This totals up to 70, which is evenly divisible by 10. In other words, this is a potentially valid credit card number.
+
+Aside
+-----
+
+Integers can be separated into their digits using a combination of the % and / operators with a value of 10.
+
+	987 % 10 = 7
+	987 / 10 = 98
+
+Assignment
+----------
+
+0) Write code that counts the number of digits for a given number
+
+	53424 => 5
+	398   => 3
+
+1) Write code that checks a credit card to determine whether or not it is valid
+
+2) Write code to generate a random, but valid card number

@@ -22,6 +22,8 @@ description: APCSP BraceYourself AP Computer Science Principles
 
 [Accumulation Pattern](/apcsp/accumulation)
 
+[Credit Card Problem](/public/files/apcsp/credit_card.txt)
+
 
 <!--## Exam
 
