@@ -24,6 +24,8 @@ description: APCSP BraceYourself AP Computer Science Principles
 
 [Credit Card Problem](/public/files/apcsp/credit_card.txt)
 
+[Song Transposition](/apcsp/transposition)
+
 
 <!--## Exam
 
