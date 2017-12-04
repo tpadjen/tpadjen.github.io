@@ -107,13 +107,13 @@ Your job is to write a program that can transpose a song's chords. You will have
 There’s a feeling I get,
            Gm
 When I look to the West.
-            A           F               Gm
+            Bb           F               Gm
 And my spirit is crying for leaving.
-            A                   Gm7
+            Bb                   Gm7
 In my thoughts I have seen,
                 Fm
 Rings of smoke through the trees,
-                A         F                     Gm
+                Bb         F                     Gm
 And the voices of those who stand looking.</pre>
 <hr>
 
