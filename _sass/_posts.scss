@@ -116,6 +116,18 @@ p.label {
   font-weight: bold;
 }
 
+p.label.left {
+  margin-left: 0;
+}
+
+p.label.small {
+  font-size: 0.85em;
+}
+
+p.label.large {
+  font-size: 1.4em;
+}
+
 p.site-label {
   margin-bottom: 4px;
   font-weight: bold;

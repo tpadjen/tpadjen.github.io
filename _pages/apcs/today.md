@@ -8,7 +8,9 @@ description: AP CS Today's Activity
 <h2>Activity <span id="date"></span></h2>
 <script src="/public/js/today.js"></script>
 
-<div class="section" markdown="1">
+Continue working on the nbody project.
+
+<!-- <div class="section" markdown="1">
 
 [Java Chortle](https://chortle.ccsu.edu/cs151/cs151java.html) Exercises for Chapters 30-25
 

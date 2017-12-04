@@ -8,16 +8,60 @@ description: AP CS Today's Activity
 <h2>Activity <span id="date"></span></h2>
 <script src="/public/js/today.js"></script>
 
-<p class="label">First Hour of Class</p>
-<div class="section" markdown="1">
-<div class="section" markdown="1">
-Continue working on the Python the Hard Way problems. Do not go past Activity 38.
-</div>
-</div>
+<p class="label left large">To Be Done By Wednesday</p>
 
-<p class="label">Last 30 Minutes</p>
-<div class="section" markdown="1">
-<div class="section" markdown="1">
-Practice your python skill by working on the `Logic-1` and `Logic-2` sections of [codingbat](http://codingbat.com/python).
-</div>
-</div>
+Write the following functions without using built in string functions or regexs:
+
+### replace_letter
+Replace all occurences of a given character in a string with a given replacement
+
+<p class="label small">Usage</p>
+```python
+print replace_letter("banana", "a", "!")
+```
+
+<p class="label small">Output</p>
+```shell
+b!n!n!
+```
+
+<hr>
+
+### switch_letters
+Given a string and two letters to switch, swap each occurence of either letter in the string with the other one
+
+<p class="label small">Usage</p>
+```python
+print switch_letters("textbook", "e", "o")
+```
+
+<p class="label small">Output</p>
+```shell
+toxtbeek
+```
+
+<hr>
+
+### switch_words
+same as switch_letters, but it works with words too
+
+<p class="label small">Usage</p>
+```python
+switch_words("The brown fox jumps over the dog", "fox", "dog") 
+```
+
+<p class="label small">Output</p>
+```shell
+The brown dog jumps over the fox
+```
+
+<hr>
+
+### censor_text
+Given a string, a list of inappropriate words, and a list of replacement words, replace every occurence of an inappropriate word in the string with a replacement word. Cycle through the replacement words, reusing them if necessary.
+
+<hr>
+
+<p class="label left large">After That</p>
+
+[Song Transposition Challenge](/apcsp/transposition).

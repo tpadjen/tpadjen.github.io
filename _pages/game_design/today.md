@@ -8,7 +8,10 @@ description: MM1 Today's Activity
 <h2>Activity <span id="date"></span></h2>
 <script src="/public/js/today.js"></script>
 
-<div class="section" markdown="1">
+Work on your final game project.
+
+
+<!-- <div class="section" markdown="1">
 
 <p class="figure-title">Walk Cycle</p>
 <div class="attributed">
