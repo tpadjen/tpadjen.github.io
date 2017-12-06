@@ -24,6 +24,7 @@ Your job is to identify and solve a transformation problem using code. Your solu
 * Be interesting / unique
 * Use each of these computing concepts:
   * variables
+  * conditionals
   * functions
   * lists
   * iteration
