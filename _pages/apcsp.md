@@ -26,6 +26,7 @@ description: APCSP BraceYourself AP Computer Science Principles
 
 [Song Transposition](/apcsp/transposition)
 
+[Final](/apcsp/final)
 
 <!--## Exam
 
