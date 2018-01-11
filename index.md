@@ -29,8 +29,4 @@ description: Classes BraceYourself
 
 [AP Computer Science Principles](/apcsp)
 
-</div>-->
-
-<!--
-[Exit Form](https://docs.google.com/a/dcsdk12.org/forms/d/12pt-Aagatoci-g7UnAkfPKtoRXBcFVJpKKAUR71bN-g/viewform)
--->
+</div>
