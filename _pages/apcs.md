@@ -11,6 +11,8 @@ description: AP CS BraceYourself AP Computer Science
 
 [Ruby Setup](/apcs/ruby_setup)
 
+[Java Setup](/apcs/java_setup)
+
 ### Files
 
 [student_data.csv](/public/files/apcs/student_data.csv)
