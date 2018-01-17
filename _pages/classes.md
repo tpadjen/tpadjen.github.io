@@ -5,7 +5,7 @@ permalink: "/classes/"
 description: Classes BraceYourself
 ---
 
-## Spring 2017
+## Spring 2018
 
 <div class="section" markdown="1">
 
