@@ -23,6 +23,11 @@ description: AP CS BraceYourself AP Computer Science
 
 [Gosu Basketball](https://github.com/mvhs-apcs/basketball) -> Images not included, you must download your own
 
+## Links
+
+[Google Computer Science Summer Institute & Scholarship Info](https://students.googleblog.com/2018/01/showing-students-they-can-apply-for.html)
+
+
 <!--## Exam
 
 <div class="section" markdown="1">
