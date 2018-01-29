@@ -15,7 +15,7 @@ Your team has been approached by Nike. Tired of the swoosh and the slogan "Just 
 
  * Then, each team member should create their own version of the logo and slogan. All designing must be your own original work created in Illustrator.
 
- * Next, each team member should create a t-shirt design that prominintly displays the logo and slogan, plus some other unique and creative design features that would make customers want to purchase the shirt.
+ * Next, each team member should create a t-shirt design that prominently displays the logo and slogan, plus some other unique and creative design features that would make customers want to purchase the shirt.
 
  * Design both the front and back of the shirt. Use the template t-shirt below as a background image. Be sure to trace the outline of the image so the shirt is part of the vector drawing you create, then remove the image when you are done.
 
