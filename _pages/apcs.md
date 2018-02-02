@@ -9,6 +9,54 @@ description: AP CS BraceYourself AP Computer Science
 >
 > &mdash; <cite>Douglas Adams</cite>
 
+## Exam
+
+[AP CS Exam Info](/apcs/exam)
+
+## Homework
+
+[ProgrammedLessons](http://www.programmedlessons.org/Java9)
+
+<table class="table">
+  <tr>
+    <th>Chapter</th>
+    <th>Quiz</th>
+    <th>Exercises</th>
+  </tr>
+  <tr>
+    <td>52</td>
+    <td><i class="fas fa-check"></i></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>60</td>
+    <td><i class="fas fa-check"></i></td>
+    <td>1-5</td>
+  </tr>
+  <tr>
+    <td>61</td>
+    <td><i class="fas fa-check"></i></td>
+    <td>1, 3, 5</td>
+  </tr>
+  <tr>
+    <td>65</td>
+    <td><i class="fas fa-check"></i></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>66</td>
+    <td></td>
+    <td>1, 2, 3</td>
+  </tr>
+  <tr>
+    <td>67</td>
+    <td></td>
+    <td>1, 2, 3, 6</td>
+  </tr>
+</table>
+
+## Setup
+
 [Ruby Setup](/apcs/ruby_setup)
 
 [Java Setup](/apcs/java_setup)
@@ -26,15 +74,6 @@ description: AP CS BraceYourself AP Computer Science
 ## Links
 
 [Google Computer Science Summer Institute & Scholarship Info](https://students.googleblog.com/2018/01/showing-students-they-can-apply-for.html)
-
-
-## Exam
-
-<div class="section" markdown="1">
-
-[AP CS Exam Info](/apcs/exam)
-
-</div>
 
 <!-- ## Labs
 
