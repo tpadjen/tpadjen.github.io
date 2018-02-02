@@ -28,7 +28,7 @@ description: AP CS BraceYourself AP Computer Science
 [Google Computer Science Summer Institute & Scholarship Info](https://students.googleblog.com/2018/01/showing-students-they-can-apply-for.html)
 
 
-<!--## Exam
+## Exam
 
 <div class="section" markdown="1">
 
@@ -36,10 +36,10 @@ description: AP CS BraceYourself AP Computer Science
 
 </div>
 
-## Labs
+<!-- ## Labs
 
 <div class="section" markdown="1">
 
 [PixLab](/apcs/pixlab)
 
-</div>-->
+</div> -->

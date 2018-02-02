@@ -76,12 +76,9 @@ description: APCSP BraceYourself AP Computer Science Principles
 
 <div class="section" markdown="1">
 
-Starts: February 1st<br>
-Deadline: Early March <br>
-Fee: Approximately $100, more details soon<br>
-Registration link will be posted here when available
-<!-- Fee: $93.00 through February, $118 afterward <br> -->
-<!-- [Register Here](https://dcsdk12.revtrak.net/tek9.asp?pg=rw_mvhs) -->
+Deadline: Sunday, March 4th at midnight <br>
+Fee: $94.00 through February, $115 after <br>
+[Register Here](https://dcsdk12.revtrak.net/High-Schools-1027/Mountain-Vista-High-School/Registrations-1050/)
 
 </div>
 
@@ -123,12 +120,10 @@ You must set up an account with **College Board** and link your **Digital Portfo
 <div class="section" markdown="1">
 
 Friday, May 11th <br>
-Test begins at 12 noon | **Arrive Early!**
-Location: TBD
+Test begins at 12 noon | **Arrive Early!**<br>
+Location: St. Andrew United Methodist Church
 
-
-<!--
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d27835.052190901286!2d-104.96827113063982!3d39.54635299487958!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x876c8384a6ad98bf%3A0xc41027800673dbd!2sSt+Andrew+United+Methodist+Church!5e0!3m2!1sen!2sus!4v1485893448674" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>-->
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d27835.052190901286!2d-104.96827113063982!3d39.54635299487958!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x876c8384a6ad98bf%3A0xc41027800673dbd!2sSt+Andrew+United+Methodist+Church!5e0!3m2!1sen!2sus!4v1485893448674" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 <br>
 
