@@ -19,6 +19,8 @@ Level 2  - [Info](2) - [Files](/public/files/karel/2.zip)
 
 Level 3a  - [Info](3a) - [Files](/public/files/karel/3a.zip)
 
+Level 3b  - [Info](3b) - [Files](/public/files/karel/3b.zip)
+
 Level 3  - [Info](3) - [Files](/public/files/karel/3.zip)
 
 Level 4  - [Info](4) - [Files](/public/files/karel/4.zip)
