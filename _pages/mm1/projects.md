@@ -66,7 +66,7 @@ There should not be any other drawings in the files you submit, and the `svg and
 
 <span id="photo"></span>
 
-## Photoshop
+<h2 id="photoshop">Photoshop</h2>
 
 Your team has been hired to star in a new Superhero movie. You must create a series of posters to promote the movie.
 

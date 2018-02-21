@@ -14,11 +14,12 @@ description: Today's Activity BraceYourself
 
 | Period | Class                                          |
 |--------|------------------------------------------------|
-| 1      | [AP Computer Science Principles](/apcsp/today) |
-| 2      | [Intro to Computer Science](/intro_cs/today)   |
-| 3      | [Multimedia 1](/mm1/today)                     |
+| 1      | [Multimedia 1](/mm1/today)                     |
+| 2      | [Web Design](/web/today)                       |
+| 3      | [Intro to Computer Science](/intro_cs/today)   |
 | 4      | [AP Computer Science A](/apcs/today)           |
-| 7      | [Video Game Design](/game_design/today)        |
+| 5      | [Video Game Design](/game_design/today)        |
+
 
 </div>
 
