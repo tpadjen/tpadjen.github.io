@@ -99,6 +99,10 @@ Test your code again one more time
 <p class="section-title">6</p>
 <div class="section" markdown="1">
 Double check that you are on the right **branch** for the activity you are currently working on
+
+```terminal
+$ git branch
+```
 </div>
 
 <p class="section-title">7</p>
