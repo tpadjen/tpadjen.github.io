@@ -29,4 +29,5 @@ description: Classes BraceYourself
 
 [AP Computer Science Principles](/apcsp)
 
+[Go here if there is a substitute today](today)
 </div>
