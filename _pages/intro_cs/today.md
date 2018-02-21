@@ -8,6 +8,10 @@ description: Intro CS Today's Activity
 <h2>Activity <span id="date"></span></h2>
 <script src="/public/js/today.js"></script>
 
+Continue working on the [Karel Levels](../karel).
+
+
+<!--
 ### Space Invaders Modification Ideas
 
 * Add a score (number of aliens destroyed)
@@ -18,6 +22,7 @@ description: Intro CS Today's Activity
 * Aliens fire lasers at the player
 * Asteroids randomly fly down the screen, the player must avoid them
 * Players have a limited number of bombs that clear the screen of Aliens briefly. Players earn bombs by killing a specific number of Aliens
+-->
 
 
 <!-- 
