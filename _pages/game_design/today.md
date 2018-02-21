@@ -31,9 +31,9 @@ void Start() {
   // activate your falling objects at different times
   // use different numbers if you like
   
-  Invoke("activateFallingObject1", 2.5);
-  Invoke("activateFallingObject2", 3.7);
-  Invoke("activateFallingObject3", 4.3);
+  Invoke("activateFallingObject1", 2.5f);
+  Invoke("activateFallingObject2", 3.7f);
+  Invoke("activateFallingObject3", 4.3f);
   
   // etc...
 }
