@@ -8,7 +8,63 @@ description: MM1 Today's Activity
 <h2>Activity <span id="date"></span></h2>
 <script src="/public/js/today.js"></script>
 
-Work on your final game project.
+## Falling Object Game
+
+Create a **falling object game**. You character will move along the ground on bottom of the screen from side to side, trying to catch objects falling from the sky.
+
+The character only moves left and right, using the keyboard.
+
+The falling objects should all be created before the game starts, placed above the camera's view, and set to `inactive`. 
+
+Use several `Invoke` statements in the `GameManager` `Start` function to activate the falling objects at different times. Like this:
+
+##### Inside GameManager
+```csharp
+// create a place to hold a falling object
+
+[SerializedField]
+FallingObjectController fallingObject1;
+
+// create more Serialized Fields for more Falling Objects
+
+void Start() {
+  // activate your falling objects at different times
+  // use different numbers if you like
+  
+  Invoke("activateFallingObject1", 2.5);
+  Invoke("activateFallingObject2", 3.7);
+  Invoke("activateFallingObject3", 4.3);
+  
+  // etc...
+}
+
+// turn on the falling object after the given time
+
+public void activateFallingObject1() {
+  fallingObject1.gameObject.SetActive(true);
+}
+
+// create more functions for the other falling objects
+```
+
+<hr>
+
+#### More Details
+
+* The objects will fall naturally if you do not disable the built in gravity.
+* There will be two types of falling objects: 
+  * A `good` one (supposed to be caught)
+  * A `bad` one (supposed to be avoided)
+* Keep track of the player's score by counting how many falling `good` objects he/she catches.
+* Change the sprite of the player for a short time when he/she catches a falling object.
+* The level ends if a player accidentally catches a `bad` object. Change the sprite for the player to something appropriate for losing, and display a losing message. Automatically restart the level 6 seconds later.
+* Falling objects should be removed from the game when they hit the ground or the player. 
+* There should be at least 10 falling objects in the final game. You should test the game with a lot fewer, until those work - then add more.
+* Add sound effects for important actions
+* Add a menu
+
+
+<!--Work on your final game project.-->
 
 
 <!-- <div class="section" markdown="1">
