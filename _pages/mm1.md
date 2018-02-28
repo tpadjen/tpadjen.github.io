@@ -13,6 +13,29 @@ description: MM1 BraceYourself Multimedia 1
 
 ## [Daily Blog Post](/mm1/daily-blog-post)
 
+## Web Design
+
+### Week 1 Project
+
+Create a site for your Top Ten Movies. Each movie needs:
+
+* A Heading (title of the movie)
+* 3 Images 
+  * The movie poster
+  * A scene from the movie
+  * A picture of the actor that played the main character
+* A paragraph describing why it is worth seeing
+* A list of the 3 most important characters
+* A link to the [IMDB](http://www.imdb.com/) page for the movie
+
+### Reference
+
+[HTML Dog](http://www.htmldog.com/guides/html/)
+
+[Hex Colors](http://www.color-hex.com/)
+
+
+
 <!--## Premiere-->
 
 <!-- [Faster, Fresher, More Exciting on Skillshare](http://skl.sh/2lkda9K) -->
