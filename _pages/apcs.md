@@ -9,8 +9,11 @@ description: AP CS BraceYourself AP Computer Science
 >
 > &mdash; <cite>Douglas Adams</cite>
 
-[Multiple Choice Practice](http://interactivepython.org/runestone/static/JavaReview/Tests/test1nt.html) - Only complete questions `4-9, 12, 14, 16-18`
+[Multiple Choice Practice](http://interactivepython.org/runestone/static/JavaReview/Tests/test1nt.html)<br>Only questions `4-9, 12, 14, 16-18`
 
+## PixLab
+
+[PixLab Instructions](pixlab)
 
 ## Exam
 
@@ -18,13 +21,9 @@ description: AP CS BraceYourself AP Computer Science
 
 [Exam Review](http://interactivepython.org/runestone/static/JavaReview/index.html)
 
-## Homework
+<!--## Homework
 
-[ProgrammedLessons](http://www.programmedlessons.org/Java9)
-
-## PixLab
-
-[PixLab Instructions](pixlab)
+[ProgrammedLessons](http://www.programmedlessons.org/Java9)-->
 
 <!--<table class="table">
   <tr>
