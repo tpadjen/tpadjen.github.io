@@ -8,7 +8,28 @@ description: MM1 Today's Activity
 <h2>Activity <span id="date"></span></h2>
 <script src="/public/js/today.js"></script>
 
-Complete all Photoshop assignments by the end of the week:
+## Web Design
+
+### Week 1 Project
+
+Create a site for your Top Ten Movies. Each movie needs:
+
+* A Heading (title of the movie)
+* 3 Images 
+  * The movie poster
+  * A scene from the movie
+  * A picture of the actor that played the main character
+* A paragraph describing why it is worth seeing
+* A list of the 3 most important characters
+* A link to the [IMDB](http://www.imdb.com/) page for the movie
+
+### Reference
+
+[HTML Dog](http://www.htmldog.com/guides/html/)
+
+[Hex Colors](http://www.color-hex.com/)
+
+<!-- Complete all Photoshop assignments by the end of the week:
 
 * 5 blog posts
 * Project 1 - Wish Week Posters
@@ -56,7 +77,7 @@ Each group member needs to contribute 2 destination pictures.
 
 ### Project 3 - Superhero Team
 
-[Details here](../projects#photoshop)
+[Details here](../projects#photoshop) -->
 
 <!--
 

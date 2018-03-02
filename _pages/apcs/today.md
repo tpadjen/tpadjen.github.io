@@ -8,7 +8,7 @@ description: AP CS Today's Activity
 <h2>Activity <span id="date"></span></h2>
 <script src="/public/js/today.js"></script>
 
-## Pets
+<!-- ## Pets
 
 Finish implementing the following pets before starting Pixlab:
 
@@ -31,13 +31,13 @@ Finish implementing the following pets before starting Pixlab:
   </tr>
 </table>
 
-<hr>
+<hr> -->
 
 ## Pixlab
 
 [Setup and Completion Instructions](../pixlab). Be sure to follow the 7 step process for completing the Exercises.
 
-Do **Not** move past `Activity 3` yet. Work on [codingbat](http://codingbat.com) instead.
+<!-- Do **Not** move past `Activity 3` yet. Work on [codingbat](http://codingbat.com) instead. -->
 
 The activities use `Objects` and `2D arrays` extensively. If you need help, refer to these **ProgrammedLessons** sections:
 
