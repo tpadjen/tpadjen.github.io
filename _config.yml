@@ -51,3 +51,6 @@ header_pages:
   Classes: '/classes/'
 
 feed: '/atom.xml'
+
+plugins:
+  - jekyll-redirect-from
