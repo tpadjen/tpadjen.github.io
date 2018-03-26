@@ -2,12 +2,14 @@
 layout: page
 title: Video Game Design
 permalink: "/game_design/"
-description: MM1 BraceYourself Video Game Design
+description: BraceYourself Video Game Design
 ---
 
 > We have to continually be jumping off cliffs and developing our wings on the way down.
 >
 > &mdash; <cite>Kurt Vonnegut</cite>
+
+[Walk Cycle](walk)
 
 ## Unity
 
