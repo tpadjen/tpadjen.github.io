@@ -10,7 +10,12 @@ description: Intro CS BraceYourself Computer Science
 > &mdash; <cite>Pablo Picasso</cite>
 
 
-## Assignments
+
+## Collision
+
+[Collision Example Sketch](/public/files/intro/Collision.zip)
+
+<!-- ## Assignments
 
 <div class="section" markdown="1">
 
@@ -19,13 +24,13 @@ description: Intro CS BraceYourself Computer Science
 
 </div>
 
-<hr>
+<hr> -->
 
-## Space Invaders
+<!-- ## Space Invaders -->
 
-[Space Invaders](invaders)
+<!-- [Space Invaders](invaders) -->
 
-<hr>
+<!-- <hr> -->
 
 ## Karel
 
