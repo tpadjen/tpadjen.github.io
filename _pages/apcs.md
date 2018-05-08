@@ -9,6 +9,8 @@ description: AP CS BraceYourself AP Computer Science
 >
 > &mdash; <cite>Douglas Adams</cite>
 
+[REVIEW](/public/files/apcs/review.zip)
+
 [Multiple Choice Practice](http://interactivepython.org/runestone/static/JavaReview/Tests/test1nt.html)<br>Only questions `4-9, 12, 14, 16-18`
 
 ## PixLab
