@@ -195,7 +195,7 @@ PLATFORMS
 
 DEPENDENCIES
   colorize
-  github-pages (= 117)
+  github-pages
   jekyll-redirect-from
 
 BUNDLED WITH
