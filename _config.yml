@@ -52,5 +52,5 @@ header_pages:
 
 feed: '/atom.xml'
 
-plugins:
+plugins_dir:
   - jekyll-redirect-from
