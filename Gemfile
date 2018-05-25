@@ -7,3 +7,4 @@ group :jekyll_plugins do
 end
 
 gem 'colorize'
+gem 'nokogiri', '~> 1.8.1'
