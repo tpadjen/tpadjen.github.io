@@ -5,6 +5,8 @@ permalink: "/apcsp/"
 description: APCSP BraceYourself AP Computer Science Principles
 ---
 
+[Ruby Setup](/apcsp/ruby_setup)
+
 <!-- <div class="section" markdown="1">
 
 [AP Board Official Course Website](https://apstudent.collegeboard.org/apcourse/ap-computer-science-principles)
@@ -18,7 +20,7 @@ description: APCSP BraceYourself AP Computer Science Principles
 
 <div class="section" markdown="1">
   [Python Setup](/apcs/python_setup)
-  
+
   [Book](https://drive.google.com/a/dcsdk12.org/file/d/0B2E_0TgQPuOYOVFsZDJRbndwRms/view?usp=sharing)
 </div> -->
 
@@ -33,7 +35,7 @@ description: APCSP BraceYourself AP Computer Science Principles
 [Final](/apcsp/final)
 
 -->
-
+<!--
 ## Exam
 
 ### Plan
@@ -53,7 +55,7 @@ description: APCSP BraceYourself AP Computer Science Principles
   <tbody>
     <tr>
       <td class="odd" rowspan="3">Find a Research Topic</td>
-      <!-- <td><a href="https://dcsdk12.revtrak.net/tek9.asp?pg=rw_mvhs">Register For Exam</a></td> -->
+      <!-- <td><a href="https://dcsdk12.revtrak.net/tek9.asp?pg=rw_mvhs">Register For Exam</a></td> -
       <td class="even">Register For Exam</td>
       <td rowspan="3"><a href="/apcsp/create">Create Task</a></td>
       <td class="even">Turn in Tasks</td>
@@ -95,7 +97,7 @@ Fee: $94.00 through February, $115 after <br>
 ### Performance Tasks
 
 <div class="section" markdown="1">
-  
+
 Due **April 30th**
 
 <p id="enroll" class="section-title">Enrollment</p>
@@ -149,4 +151,4 @@ Complete Units 1, 2, and 4 of the [Code.org CSP course](https://studio.code.org/
 * [Practice Questions](https://www.albert.io/ap-computer-science-principles/questions)
 </div>
 
-</div>
+</div>-->
