@@ -7,6 +7,14 @@ description: APCS Java Setup
 
 <div class="section listed" markdown="1">
 
+  <p class="section-title">0</p>
+  <div class="section" markdown="1">Install a terminal<br><br>
+    *Windows*<br>
+    Download and install [Git for Windows](https://git-scm.com/download/win). This includes our console, `git bash`.<br><br>
+    *OS X*<br>
+    Use `Terminal`, which is included in OS X.
+  </div>
+
   <p class="section-title">1</p>
   <div class="section" markdown="1">
   Download [Java SE Development Kit 8](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) for your operating system.
