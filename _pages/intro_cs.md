@@ -26,9 +26,9 @@ description: Intro CS BraceYourself Computer Science
 
 <hr> -->
 
-<!-- ## Space Invaders -->
+## Space Invaders
 
-<!-- [Space Invaders](invaders) -->
+[Space Invaders Example Code](invaders)
 
 <!-- <hr> -->
 
