@@ -12,24 +12,25 @@ Spaceship ship;
 Alien[] aliens = new Alien[5];
 Rocket rocket;
 
-PImage rocketImg;
-PImage explosionImg;
+PImage rocketImg, explosionImg, alienImg, spaceshipImg;
 
 void setup() {
   size(1620, 980);
 
   rocketImg = loadImage("rocket.jpg");
   explosionImg = loadImage("explosion.jpg");
+  alienImg = loadImage("Alien.png")
+  spaceshipImg = loadImage("Spaceship.png");
 
-  ship = new Spaceship(760, height - 50, 100);
+  ship = new Spaceship(760, height - 50, 100, spaceshipImg);
 
+  // create many aliens
   for(int i=0; i < aliens.length; i = i + 1) {
-    aliens[i] = new Alien(300 + 100 * i, 100, 400);
+    aliens[i] = new Alien(300 + 100 * i, 100, 400, alienImg);
   }
 }
 
-void draw() {
-  // updating
+void update() {
   if (rocket != null) {
     rocket.update();
 
@@ -38,8 +39,15 @@ void draw() {
     }
 
   }
+}
 
-  // drawing
+void draw() {
+
+  update(); // Move things and check for collisions
+
+    
+  // actual drawing
+
   background(0);
 
   ship.draw();
@@ -48,6 +56,7 @@ void draw() {
     aliens[i].draw();
   }
 
+  // only draw the rocket if it has been created
   if (rocket != null) {
     rocket.draw();
   }
@@ -58,7 +67,7 @@ void keyPressed() {
     ship.moveLeft();
   } else if (keyCode == RIGHT) {
     ship.moveRight();
-  } else if (keyCode == 32) {
+  } else if (keyCode == 32) { // Spacebar
     rocket = new Rocket(ship, 30, rocketImg, explosionImg);
   }
 }
@@ -68,29 +77,22 @@ void keyPressed() {
 ```java
 class Alien {
 
-  int x, y, size;
-  PImage image;
+  public BoundingBox box;
+  int speed;
+  PImage img;
 
-  Alien(int x, int y, int size) {
-    this.x = x;
-    this.y = y;
-    this.size = size;
-    this.image = loadImage("Alien.png");;
+  Alien(int x, int y, int size, PImage img) {
+    box = new BoundingBox(x, y, size, size);
+    this.img = img;
+    this.speed = 10;
   }
 
   void draw() {
-    image(image, x, y, size, size);
+    image(img, box.x, box.y, box.w, box.h);
   }
 
   void moveRight() {
-    x = x + 10;
-  }
-
-  PVector center() {
-    PVector p = new PVector();
-    p.x = x + size / 2;
-    p.y = y + size / 2;
-    return p;
+    box.x = box.x + speed;
   }
 
 }
@@ -100,27 +102,26 @@ class Alien {
 ```java
 class Spaceship {
 
-  int x, y, size, speed;
-  PImage spaceshipImg;
+  public BoundingBox box;
+  int speed;
+  PImage img;
 
-  Spaceship(int x, int y, int size) {
-    this.x = x;
-    this.y = y;
-    this.size = size;
+  Spaceship(int x, int y, int size, PImage img) {
+    box = new BoundingBox(x, y, size, size);
     this.speed = 5;
-    spaceshipImg = loadImage("Spaceship.png");
+    this.img = img;
   }
 
   void moveRight() {
-    x += speed;
+    box.x += speed;
   }
 
   void moveLeft() {
-    x -= speed;
+    box.x -= speed;
   }
 
   void draw() {
-    image(spaceshipImg, x, y, size, size);
+    image(img, box.x, box.y, box.w, box.h);
   }
 
 }
@@ -130,57 +131,80 @@ class Spaceship {
 ```java
 class Rocket {
 
-  int x, y, speed, size;
+  public BoundingBox box;
+  int speed;
   PImage rocketImg;
   PImage explosionImg;
   boolean exploded = false;
 
   Rocket(Spaceship ship, int speed, PImage rImg, PImage eImg) {
-      this.x = ship.x;
-      this.y = ship.y;
+      box = new BoundingBox(ship.x, ship.y, 100, 100);
       this.speed = speed;
-
-      size = 100;
       rocketImg = rImg;
       explosionImg = eImg;
   }
 
-  PVector center() {
-    PVector p = new PVector();
-    p.x = x + size / 2;
-    p.y = y + size / 2;
-    return p;
-  }
-
-  double distance(PVector a, PVector b) {
-    float diff1 = a.x - b.x;
-    float diff2 = a.y - b.y;
-    float z = diff1*diff1 + diff2*diff2;
-    return Math.sqrt(z);
-  }
-
   void checkCollision(Alien alien) {
-    PVector alienCenter = alien.center();
-    PVector myCenter = center();
-    double distance = distance(alienCenter, myCenter);
+    if (exploded) return;
 
-    if (distance < size / 2 + alien.size / 2) {
+    if (box.isCollidingWith(alien.box)) {
       exploded = true;
     }
   }
 
   void update() {
-    y -= speed;
+    if (exploded) return;
+
+    box.y -= speed;
   }
 
   void draw() {
     if (exploded) {
-      image(explosionImg, x, y, size, size);
+      image(explosionImg, box.x, box.y, box.w, box.h);
     } else {
-      image(rocketImg, x, y, size, size);
+      image(rocketImg, box.x, box.y, box.w, box.h);
     }
   }
 
 
 }
 ```
+
+### BoundingBox
+```java
+class BoundingBox {
+  
+  public int x, y, w, h;
+  
+  BoundingBox(int x, int y, int w, int h) {
+    this.x = x;
+    this.y = y;
+    this.w = w;
+    this.h = h;
+  }
+  
+  // returns whether or not another bounding box is intersecting this one
+  boolean isCollidingWith(BoundingBox other) {
+    return pointIsInside(other.x, other.y)         || // top left
+           pointIsInside(other.x + w, other.y)     || // top right
+           pointIsInside(other.x, other.y + h)     || // bottom left
+           pointIsInside(other.x + w, other.y + h);   // bottom right
+  }
+  
+  // returns whether or not a given point is inside this bounding box
+  private boolean pointIsInside(int px, int py) {
+    return px >= x && px <= (x + w) &&
+           py >= y && py <= (y + h);
+  }
+  
+}
+```
+
+
+
+
+
+
+
+
+.
