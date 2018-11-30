@@ -138,7 +138,7 @@ class Rocket {
   boolean exploded = false;
 
   Rocket(Spaceship ship, int speed, PImage rImg, PImage eImg) {
-      box = new BoundingBox(ship.x, ship.y, 100, 100);
+      box = new BoundingBox(ship.box.x, ship.box.y, 100, 100);
       this.speed = speed;
       rocketImg = rImg;
       explosionImg = eImg;
