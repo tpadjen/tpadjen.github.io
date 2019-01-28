@@ -13,3 +13,5 @@ description: MM1 Rotation Blog Post BraceYourself Multimedia 1
 3. What did you enjoy about this rotation? Are you interested in learning more about it? Why or why not?
 4. Give some advice to the next group. What should they make sure to do the same as you did? What should they do differently? Why?
 5. If you had to make one more project at this rotation, what would you want it to be? Why?
+
+<br>
