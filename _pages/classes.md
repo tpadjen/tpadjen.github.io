@@ -5,7 +5,7 @@ permalink: "/classes/"
 description: Classes BraceYourself
 ---
 
-## Fall 2018
+## Spring 2019
 
 <div class="section" markdown="1">
 
@@ -14,10 +14,10 @@ description: Classes BraceYourself
 | Period | Class                                    |
 |--------|------------------------------------------|
 | 1      | [AP Computer Science A](/apcs)           |
-| 2      | [Intro to Computer Science](/intro_cs)   |
-| 3      | [AP Computer Science Principles](/apcsp) |
-| 4      | [AP Computer Science Principles](/apcsp) |
-| 7      | [Video Game Design](/game_design)        |
+| 2      | [Multimedia I](/mm1)                     |
+| 3      | [Video Game Design](/game_design)        |
+| 6      | [Intro to Computer Science](/intro_cs)   |
+| 7      | [Multimedia I](/mm1)                     |
 
 
 </div>

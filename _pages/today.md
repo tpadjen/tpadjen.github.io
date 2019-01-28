@@ -12,13 +12,13 @@ description: Today's Activity BraceYourself
 
 <div class="class-table" markdown="1">
 
-| Period | Class                                          |
-|--------|------------------------------------------------|
-| 1      | [Multimedia 1](/mm1/today)                     |
-| 2      | [Web Design](/web/today)                       |
-| 3      | [Intro to Computer Science](/intro_cs/today)   |
-| 4      | [AP Computer Science A](/apcs/today)           |
-| 5      | [Video Game Design](/game_design/today)        |
+| Period | Class                                    |
+|--------|------------------------------------------|
+| 1      | [AP Computer Science A](/apcs/today      |
+| 2      | [Multimedia I](/mm1/today)               |
+| 3      | [Video Game Design](/game_design/today)  |
+| 6      | [Intro to Computer Science](/intro_cs/today)|
+| 7      | [Multimedia I](/mm1/today)               |
 
 
 </div>
