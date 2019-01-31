@@ -5,15 +5,13 @@ permalink: "/apcsp/"
 description: APCSP BraceYourself AP Computer Science Principles
 ---
 
-[Ruby Setup](/apcsp/ruby_setup)
+<!-- [Ruby Setup](/apcsp/ruby_setup) -->
 
-<!-- <div class="section" markdown="1">
+<div class="section" markdown="1">
 
 [AP Board Official Course Website](https://apstudent.collegeboard.org/apcourse/ap-computer-science-principles)
 
-[AP APCSP Digital Portfolio Setup Guide](https://secure-media.collegeboard.org/digitalServices/pdf/ap/ap-capstone/ap-capstone-digital-portfolio-student-user-guide.pdf)
-
-</div> -->
+</div>
 
 <!-- ## Python
 
@@ -35,7 +33,7 @@ description: APCSP BraceYourself AP Computer Science Principles
 [Final](/apcsp/final)
 
 -->
-<!--
+
 ## Exam
 
 ### Plan
@@ -55,7 +53,7 @@ description: APCSP BraceYourself AP Computer Science Principles
   <tbody>
     <tr>
       <td class="odd" rowspan="3">Find a Research Topic</td>
-      <!-- <td><a href="https://dcsdk12.revtrak.net/tek9.asp?pg=rw_mvhs">Register For Exam</a></td> -
+      <!-- <td><a href="https://dcsdk12.revtrak.net/tek9.asp?pg=rw_mvhs">Register For Exam</a></td> -->
       <td class="even">Register For Exam</td>
       <td rowspan="3"><a href="/apcsp/create">Create Task</a></td>
       <td class="even">Turn in Tasks</td>
@@ -78,8 +76,8 @@ description: APCSP BraceYourself AP Computer Science Principles
 
 <div class="section" markdown="1">
 
-Deadline: Sunday, March 4th at midnight <br>
-Fee: $94.00 through February, $115 after <br>
+Deadline: Sunday, March 3rd at midnight <br>
+Fee: $94.00 through February 24th, $115 after <br>
 [Register Here](https://dcsdk12.revtrak.net/High-Schools-1027/Mountain-Vista-High-School/Registrations-1050/)
 
 </div>
@@ -88,17 +86,22 @@ Fee: $94.00 through February, $115 after <br>
 
 <div class="section" markdown="1">
 
+* [Assessment and Tasks Overview](https://apcentral.collegeboard.org/pdf/ap-csp-student-task-directions.pdf?SFMC_cid=EM111603-&rid=47223599)
 * [Course and Exam Description](https://secure-media.collegeboard.org/digitalServices/pdf/ap/ap-computer-science-principles-course-and-exam-description.pdf)
 * [AP Digital Portfolio Student User Guide](https://secure-media.collegeboard.org/digitalServices/pdf/ap/computer-science-principles-digital-portfolio-student-guide.pdf)
 * [Site with sample responses and rubrics](http://apcentral.collegeboard.com/apc/public/exam/exam_information/231726.html)
 
 </div>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aBok4XfCWvI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[AP APCSP Digital Portfolio Setup Guide](https://secure-media.collegeboard.org/digitalServices/pdf/ap/ap-capstone/ap-capstone-digital-portfolio-student-user-guide.pdf)
+
 ### Performance Tasks
 
 <div class="section" markdown="1">
 
-Due **April 30th**
+Due **May 2nd at 11:59 p.m. ET**
 
 <p id="enroll" class="section-title">Enrollment</p>
 <div class="section" markdown="1">
@@ -121,11 +124,9 @@ You must set up an account with **College Board** and link your **Digital Portfo
 
 <div class="section" markdown="1">
 
-Friday, May 11th <br>
-Test begins at 12 noon | **Arrive Early!**<br>
-Location: St. Andrew United Methodist Church
-
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d27835.052190901286!2d-104.96827113063982!3d39.54635299487958!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x876c8384a6ad98bf%3A0xc41027800673dbd!2sSt+Andrew+United+Methodist+Church!5e0!3m2!1sen!2sus!4v1485893448674" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+Friday, May 10th <br>
+Test begins at 8:00 am | **Arrive Early!**<br>
+Location: To Be Determined - will be posted here closer to the exam
 
 <br>
 
@@ -151,4 +152,10 @@ Complete Units 1, 2, and 4 of the [Code.org CSP course](https://studio.code.org/
 * [Practice Questions](https://www.albert.io/ap-computer-science-principles/questions)
 </div>
 
-</div>-->
+</div>
+
+<!-- St. Andrew United Methodist Church
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d27835.052190901286!2d-104.96827113063982!3d39.54635299487958!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x876c8384a6ad98bf%3A0xc41027800673dbd!2sSt+Andrew+United+Methodist+Church!5e0!3m2!1sen!2sus!4v1485893448674" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+-->
