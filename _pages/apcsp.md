@@ -125,7 +125,7 @@ You must set up an account with **College Board** and link your **Digital Portfo
 <div class="section" markdown="1">
 
 Friday, May 10th <br>
-Test begins at 8:00 am | **Arrive Early!**<br>
+Test begins at 12:00 pm | **Arrive Early!**<br>
 Location: To Be Determined - will be posted here closer to the exam
 
 <br>
