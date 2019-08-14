@@ -9,7 +9,7 @@ description: AP CS BraceYourself AP Computer Science
 >
 > &mdash; <cite>Douglas Adams</cite>
 
-[REVIEW](/public/files/apcs/review.zip)
+<!-- [REVIEW](/public/files/apcs/review.zip)
 
 [Multiple Choice Practice](http://interactivepython.org/runestone/static/JavaReview/Tests/test1nt.html)<br>Only questions `4-9, 12, 14, 16-18`
 
@@ -21,7 +21,7 @@ description: AP CS BraceYourself AP Computer Science
 
 [AP CS Exam Info](/apcs/exam)
 
-[Exam Review](http://interactivepython.org/runestone/static/JavaReview/index.html)
+[Exam Review](http://interactivepython.org/runestone/static/JavaReview/index.html) -->
 
 <!--## Homework
 
@@ -71,7 +71,7 @@ description: AP CS BraceYourself AP Computer Science
 
 [Java Setup](/apcs/java_setup)
 
-### Files
+<!--### Files
 
 [student_data.csv](/public/files/apcs/student_data.csv)
 
@@ -79,7 +79,7 @@ description: AP CS BraceYourself AP Computer Science
 
 [Food Data](/public/files/apcs/Food.xlsx)
 
-[Gosu Basketball](https://github.com/mvhs-apcs/basketball) -> Images not included, you must download your own
+[Gosu Basketball](https://github.com/mvhs-apcs/basketball) -> Images not included, you must download your own -->
 
 ## Links
 

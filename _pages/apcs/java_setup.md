@@ -19,7 +19,7 @@ description: APCS Java Setup
   <div class="section" markdown="1">
   Download [Java SE Development Kit 8](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) for your operating system.
 
-  You will need to click the `Accept License Agreement` checkbox above the download links before anything will download.
+  You will need to click the `Accept License Agreement` checkbox above the download links before anything will download. You may need to sign up for a free Oracle account.
 
   <img src="/public/img/accept_license.png" width="100%">
   </div>
