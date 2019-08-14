@@ -12,13 +12,13 @@ description: Today's Activity BraceYourself
 
 <div class="class-table" markdown="1">
 
-| Period | Class                                    |
-|--------|------------------------------------------|
-| 1      | [AP Computer Science A](/apcs/today      |
-| 2      | [Multimedia I](/mm1/today)               |
-| 3      | [Video Game Design](/game_design/today)  |
-| 6      | [Intro to Computer Science](/intro_cs/today)|
-| 7      | [Multimedia I](/mm1/today)               |
+| Period | Class                                          |
+|--------|------------------------------------------------|
+| 1      | [Video Game Design](/game_design/today)        |
+| 2      | [AP Computer Science Principles](/apcsp/today) |
+| 3      | [AP Computer Science Principles](/apcsp/today) |
+| 4      | [Intro to Computer Science](/intro_cs/today)   |
+| 5      | [AP Computer Science A](/apcs/today)           |
 
 
 </div>
