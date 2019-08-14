@@ -12,10 +12,15 @@ description: APCS Java Setup
     *Windows*<br>
     Download and install [Git for Windows](https://git-scm.com/download/win). This includes our console, `git bash`.<br><br>
     *OS X*<br>
-    Use `Terminal`, which is included in OS X.
+    Use `Terminal`, which is included in MacOS.
   </div>
 
   <p class="section-title">1</p>
+  <div class="section" markdown="1">
+  Install your favorite text editor. [VSCode](https://code.visualstudio.com/), [Sublime](https://www.sublimetext.com/3), and [Atom](https://atom.io/) are good.
+  </div>
+
+  <p class="section-title">2</p>
   <div class="section" markdown="1">
   Download [Java SE Development Kit 8](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) for your operating system.
 
@@ -24,12 +29,43 @@ description: APCS Java Setup
   <img src="/public/img/accept_license.png" width="100%">
   </div>
 
-  <p class="section-title">2</p>
+  <p class="section-title">3</p>
   <div class="section" markdown="1">
   Run the installer.
   </div>
 
-  <p class="section-title">3</p>
+  <p class="section-title">4</p>
+  <div class="section" markdown="1">**Optional**<br>If you want to be able to run your text editor from the command line, like we do in class:
+
+```terminal
+$ code .
+```
+### Windows
+Create a text file with the name of the command you want to use (code in this case, and always with no extension) with the following content (the second line is the path to your chosen text editor program):
+
+```
+#!/bin/sh
+"C:\Program Files (x86)\Microsoft VS Code\Code.exe" $1 &
+```
+
+
+Move the text file into the `C:\Program Files\Git\usr\bin` folder (or `C:\Program Files (x86)\Git\usr\bin` if that's where Git was installed).
+
+Restart `Git Bash` and your command should work.
+
+### Mac
+With VScode open press the keys `cmd + shift + p`.
+
+In the box that pops up, type `shell`.
+
+Select the first option: <br>`Shell Command: Install 'code' command in path`<br> by pressing `Enter` or clicking it.
+
+Press `okay`, then type in your user password.
+
+Finally, close and reopen `terminal`.
+</div>
+
+  <p class="section-title">5</p>
   <div class="section" markdown="1">**Windows Only**<br>
   Add java to your path.
 
@@ -42,16 +78,17 @@ description: APCS Java Setup
   <br>
   </div>
 
-  <p class="section-title">4</p>
-  <div class="section" markdown="1">
-  To test if it is working, restart git bash and run:
+  <hr>
+  To test if `java` is working, restart git bash and run:
 
 ```
 $ javac
 ```
 
-  You should see info related to `java`.
-  </div>
+  You should see info related to `java`, not a `command not found` error.
+  <br>
+  <br>
+  <br>
 
 </div>
 
