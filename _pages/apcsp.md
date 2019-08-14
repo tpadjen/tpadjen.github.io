@@ -6,9 +6,9 @@ description: APCSP BraceYourself AP Computer Science Principles
 ---
 
 [Ruby Setup](/apcsp/ruby_setup)
-
+<br>
+<br>
 <div class="section" markdown="1">
-
 [AP Board Official Course Website](https://apstudent.collegeboard.org/apcourse/ap-computer-science-principles)
 
 </div>

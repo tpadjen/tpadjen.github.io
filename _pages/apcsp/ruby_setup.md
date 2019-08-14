@@ -4,7 +4,7 @@ title: APCS P Ruby Setup
 permalink: "/apcsp/ruby_setup/"
 description: APCS P Ruby Setup
 ---
-
+### Windows
 <div class="section listed" markdown="1">
 
   <p class="section-title">1</p>
@@ -48,5 +48,22 @@ Restart `Git Bash` and your command should work.
 <br>
 <br>
   </div>
+
+</div>
+
+### Mac
+<div class="section listed" markdown="1">
+
+  <p class="section-title">1</p>
+  <div class="section" markdown="1">
+  Install [VSCode](https://code.visualstudio.com/).
+  </div>
+
+  <p class="section-title">2</p>
+  <div class="section" markdown="1">
+  Setup VSCode to be able to run from `terminal`. With VScode open press the keys `cmd` + `shift + `p'. In the box that pops up, type `shell`. Select the first option `Shell Command: Install 'code' command in path` by pressing `Enter` or clicking it. Press `okay`, then typ in your user password. Finally, close and reopen `terminal`. You should now be able to type `code .` on the commend line to open a folder in VSCode.
+  </div>
+  <br>
+  <br>
 
 </div>
