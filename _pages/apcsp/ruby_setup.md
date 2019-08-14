@@ -63,7 +63,7 @@ Restart `Git Bash` and your command should work.
   <div class="section" markdown="1">
   Setup VSCode to be able to run from `terminal`.
 
-  With VScode open press the keys `cmd + shift + p`. In the box that pops up, type `shell`. Select the first option `Shell Command: Install 'code' command in path` by pressing `Enter` or clicking it. Press `okay`, then typ in your user password. Finally, close and reopen `terminal`. You should now be able to type `code .` on the commend line to open a folder in VSCode.
+  With VScode open press the keys `cmd + shift + p`. In the box that pops up, type `shell`. Select the first option `Shell Command: Install 'code' command in path` by pressing `Enter` or clicking it. Press `okay`, then type in your user password. Finally, close and reopen `terminal`. You should now be able to type `code .` on the command line to open a folder in VSCode.
   </div>
   <br>
   <br>
