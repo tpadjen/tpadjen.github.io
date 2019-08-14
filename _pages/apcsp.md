@@ -5,7 +5,7 @@ permalink: "/apcsp/"
 description: APCSP BraceYourself AP Computer Science Principles
 ---
 
-<!-- [Ruby Setup](/apcsp/ruby_setup) -->
+[Ruby Setup](/apcsp/ruby_setup)
 
 <div class="section" markdown="1">
 

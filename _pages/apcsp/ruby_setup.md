@@ -50,4 +50,3 @@ Restart `Git Bash` and your command should work.
   </div>
 
 </div>
-
