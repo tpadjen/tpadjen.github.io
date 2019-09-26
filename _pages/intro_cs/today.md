@@ -25,7 +25,7 @@ Continue working on the [Karel Levels](../karel).
 -->
 
 
-<!-- 
+<!--
 <div class="section" markdown="1">
 <!-- If you are currently working on a specific project, continue. Otherwise, you have a few choices for today.
 Continue the [Karel Levels](../karel). Help one another.

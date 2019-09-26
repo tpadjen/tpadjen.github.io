@@ -8,6 +8,21 @@ description: AP CS Today's Activity
 <h2>Activity <span id="date"></span></h2>
 <script src="/public/js/today.js"></script>
 
+<table class="sized">
+  <tr>
+    <td><code>Chapter 24</code></td>
+    <td>2, 1, 3</td>
+  </tr>
+  <tr>
+    <td><code>Chapter 25</code></td>
+    <td>2, 3</td>
+  </tr>
+  <tr>
+    <td><a href="http://www.codingbat.com">Codingbat</a></td>
+    <td>Logic-1, Logic-2, String-1, String-2</td>
+  </tr>
+</table>
+
 <!-- ## Pets
 
 Finish implementing the following pets before starting Pixlab:
@@ -33,13 +48,13 @@ Finish implementing the following pets before starting Pixlab:
 
 <hr> -->
 
-## Pixlab
+<!-- ## Pixlab
 
 [Setup and Completion Instructions](../pixlab). Be sure to follow the 7 step process for completing the Exercises.
 
 <!-- Do **Not** move past `Activity 3` yet. Work on [codingbat](http://codingbat.com) instead. -->
 
-The activities use `Objects` and `2D arrays` extensively. If you need help, refer to these **ProgrammedLessons** sections:
+<!-- The activities use `Objects` and `2D arrays` extensively. If you need help, refer to these **ProgrammedLessons** sections:
 
 <table class="borderless nolines sized inset">
   <tr>
@@ -52,7 +67,7 @@ The activities use `Objects` and `2D arrays` extensively. If you need help, refe
     <td><span class="arrow">▶</span></td>
     <td><a href="http://programmedlessons.org/Java9/chap67/ch67_01.html">Chapter 67</a></td>
   </tr>
-</table>
+</table> -->
 
 <!-- <div class="section" markdown="1">
 If you are currently working on a specific project, continue. Otherwise, you have a few choices for today.

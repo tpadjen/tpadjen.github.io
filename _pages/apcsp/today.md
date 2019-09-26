@@ -8,7 +8,10 @@ description: AP CS Today's Activity
 <h2>Activity <span id="date"></span></h2>
 <script src="/public/js/today.js"></script>
 
-<p class="label left large">To Be Done By Wednesday</p>
+
+Implement the functions on the List Challenges handout.
+
+<!-- <p class="label left large">To Be Done By Wednesday</p>
 
 Write the following functions without using built in string functions or regexs:
 
@@ -47,7 +50,7 @@ same as switch_letters, but it works with words too
 
 <p class="label small">Usage</p>
 ```python
-switch_words("The brown fox jumps over the dog", "fox", "dog") 
+switch_words("The brown fox jumps over the dog", "fox", "dog")
 ```
 
 <p class="label small">Output</p>
@@ -64,4 +67,4 @@ Given a string, a list of inappropriate words, and a list of replacement words, 
 
 <p class="label left large">After That</p>
 
-[Song Transposition Challenge](/apcsp/transposition).
+[Song Transposition Challenge](/apcsp/transposition). -->
