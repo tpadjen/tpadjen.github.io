@@ -35,4 +35,7 @@ description: Classes BraceYourself
 </div>
 
 ## NCWIT
+
+<div class="section" markdown="1">
 [Award for Aspirations in Computing](https://www.aspirations.org/recognitions/AiCAward)
+</div>
