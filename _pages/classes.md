@@ -31,5 +31,8 @@ description: Classes BraceYourself
 
 
 [Go here if there is a substitute today](today)
+
 </div>
 
+## NCWIT
+[Award for Aspirations in Computing](https://www.aspirations.org/recognitions/AiCAward)
