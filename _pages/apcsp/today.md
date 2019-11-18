@@ -9,7 +9,7 @@ description: AP CS Today's Activity
 <script src="/public/js/today.js"></script>
 
 
-Implement the functions on the List Challenges handout.
+Create the websites on the Javascript Challenges handout.
 
 <!-- <p class="label left large">To Be Done By Wednesday</p>
 

@@ -10,16 +10,16 @@ description: AP CS Today's Activity
 
 <table class="sized">
   <tr>
-    <td><code>Chapter 24</code></td>
-    <td>2, 1, 3</td>
+    <td><code>Magpie</code></td>
+    <td>1-4</td>
   </tr>
   <tr>
-    <td><code>Chapter 25</code></td>
-    <td>2, 3</td>
+    <td><code>Chapter 54</code></td>
+    <td>1, 5, 6</td>
   </tr>
   <tr>
-    <td><a href="http://www.codingbat.com">Codingbat</a></td>
-    <td>Logic-1, Logic-2, String-1, String-2</td>
+    <td><code>Part 7</code></td>
+    <td>Arrays</td>
   </tr>
 </table>
 

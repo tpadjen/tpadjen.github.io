@@ -8,7 +8,8 @@ description: Intro CS Today's Activity
 <h2>Activity <span id="date"></span></h2>
 <script src="/public/js/today.js"></script>
 
-Continue working on the [Karel Levels](../karel).
+<!--Continue working on the [Karel Levels](../karel).-->
+Turn in your Space Invaders game using Google Drive by the end of the day.
 
 
 <!--
