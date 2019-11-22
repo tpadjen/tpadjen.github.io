@@ -5,9 +5,23 @@ permalink: "/apcsp/"
 description: APCSP BraceYourself AP Computer Science Principles
 ---
 
-[Ruby Setup](/apcsp/ruby_setup)
+### Setup
+[Ruby](/apcsp/ruby_setup)
 <br>
 <br>
+
+### Turkey Power
+<div class="section" markdown="1">
+Create a website with a picture of a turkey. When the turkey is clicked, a gobble sound plays and two more turkeys appear on the page in random places. The next time a turkey is clicked, four more turkeys appear, the next time eight, then sixteen, and so on. The gobble sound is only heard once per turkey click. The user can also press the 'c' key at any time to clear all but the first turkey.
+
+<strong>Helpful Websites</strong><br>
+[HTML Dog](http://htmldog.com)<br>
+[javacript.info](http://javascript.info)<br>
+[Learn Layout](http://learnlayout.com)<br>
+</div>
+<hr>
+### Exam
+
 <div class="section" markdown="1">
 [AP Board Official Course Website](https://apstudent.collegeboard.org/apcourse/ap-computer-science-principles)
 
