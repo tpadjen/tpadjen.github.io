@@ -8,10 +8,12 @@ description: MM1 Today's Activity
 <h2>Activity <span id="date"></span></h2>
 <script src="/public/js/today.js"></script>
 
-## Final Game
-First individual deliverables due Wednesday. Talk to your team leader for more details.
 
-<!--## Megaman-like Assets
+
+<!-- ## Final Game -->
+<!-- First individual deliverables due Wednesday. Talk to your team leader for more details. -->
+
+## Megaman-like Assets
 
 Use Illustrator to create these sprites for a megaman-like game we will work on next week:
 
@@ -25,7 +27,6 @@ Use Illustrator to create these sprites for a megaman-like game we will work on 
 Export the images as <code>png</code> files into a new <code>2d</code> project named <strong>megaman</strong>.
 
 If you have time, start to build a platforming level with your new sprites.
--->
 
 <!-- ## Falling Object Game
 

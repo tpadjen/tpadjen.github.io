@@ -2,7 +2,7 @@
 layout: page
 title: Video Game Design
 permalink: "/game_design/"
-description: BraceYourself Video Game Design
+description: Video Game Design
 ---
 
 > We have to continually be jumping off cliffs and developing our wings on the way down.
@@ -13,6 +13,8 @@ description: BraceYourself Video Game Design
 <!-- [Skills Form](https://forms.gle/kiiMFLE8tqpJwEcv8)
 
 [Walk Cycle](walk) -->
+
+[Today's Activity](today)
 
 ## Unity
 
