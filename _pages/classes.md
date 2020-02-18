@@ -2,10 +2,10 @@
 layout: page
 title: Classes
 permalink: "/classes/"
-description: Classes BraceYourself
+description: Classes
 ---
 
-## Fall 2019
+## Spring 2020
 
 <div class="section" markdown="1">
 
@@ -13,11 +13,11 @@ description: Classes BraceYourself
 
 | Period | Class                                    |
 |--------|------------------------------------------|
-| 1      | [Video Game Design](/game_design)        |
-| 2      | [AP Computer Science Principles](/apcsp) |
-| 3      | [AP Computer Science Principles](/apcsp) |
-| 4      | [Intro to Computer Science](/intro_cs)   |
-| 5      | [AP Computer Science A](/apcs)           |
+| 1      | [AP Computer Science A](/apcs)           |
+| 2      | [Video Game Design](/game_design)        |
+| 3      | [Intro to Computer Science](/intro_cs)   |
+| 4      | [Multimedia I](/mm1)                     |
+| 5      | [Web Design](/web)                       |
 
 
 </div>
@@ -26,8 +26,8 @@ description: Classes BraceYourself
 ## Other
 
 <div class="section" markdown="1">
-[Multimedia I](/mm1)
-<!-- [AP Computer Science Principles](/apcsp) -->
+<!-- [Multimedia I](/mm1) -->
+[AP Computer Science Principles](/apcsp)
 
 
 [Go here if there is a substitute today](today)

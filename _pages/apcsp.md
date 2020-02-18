@@ -5,7 +5,7 @@ permalink: "/apcsp/"
 description: APCSP BraceYourself AP Computer Science Principles
 ---
 
-### Setup
+<!-- ### Setup
 [Ruby](/apcsp/ruby_setup)
 <br>
 <br>
@@ -23,7 +23,7 @@ Create a website with a picture of a turkey. When the turkey is clicked, a gobbl
 ### Exam
 
 <div class="section" markdown="1">
-[AP Board Official Course Website](https://apstudent.collegeboard.org/apcourse/ap-computer-science-principles)
+[AP Board Official Course Website](https://apstudent.collegeboard.org/apcourse/ap-computer-science-principles) -->
 
 </div>
 

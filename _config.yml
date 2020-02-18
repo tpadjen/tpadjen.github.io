@@ -20,8 +20,8 @@ kramdown:
 permalink:           /:title/
 
 # Setup
-title:               Brace Yourself
-url:                 https://braceyourself.io
+title:               MVHS Computer Science
+url:                 https://tpadjen.github.io
 baseurl:             ""
 excerpt_separator: <span id="excerpt"></span>
 

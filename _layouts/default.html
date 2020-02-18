@@ -4,6 +4,7 @@
   {% include head.html %}
 
   <body ng-app="BraceYourself" ng-controller="SearchCtrl" ng-click="closeAll()">
+    <div class="everything"></div>
 
     <div class="masthead-bg colorize">
       <header class="masthead container">
@@ -30,8 +31,8 @@
         </div>
         <div ng-cloak class="search-popup" ng-if="searching" ng-click="preventClose($event)">
           <div class="input">
-            <span class="label">Search:</span><input type="text" 
-                   class="search" 
+            <span class="label">Search:</span><input type="text"
+                   class="search"
                    ng-model="search.query"
                    ng-keyup="keyup($event)">
           </div>
@@ -40,7 +41,7 @@
             <li ng-repeat="post in posts | filter:search.query ">
               <a class="title" href="{% raw %}{{ post.url }}{% endraw %}" ng-bind="post.title"></a>
               <br>
-              <span 
+              <span
                 class="tag"
                 ng-repeat="tag in post.tags"
                 ng-click="searchFor($event, tag)"

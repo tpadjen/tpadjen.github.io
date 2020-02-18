@@ -2,7 +2,7 @@
 layout: page
 title: Web Design
 permalink: "/web/"
-description: Web Design BraceYourself
+description: Web Design
 ---
 
 > Give a person a fish and you feed them for a day; teach that person to use the Internet and they won't bother you for weeks.
@@ -11,7 +11,7 @@ description: Web Design BraceYourself
 ## Assignments
 
 <div class="section" markdown="1">
-  
+
 1. [Floats](floats)
 2. [Layout](layout)
 
@@ -31,7 +31,7 @@ description: Web Design BraceYourself
 * [HTML5 Cheat Sheet](http://websitesetup.org/HTML5-cheat-sheet.pdf)
 
 </div>
-  
+
 #### Style
 <div class="section" markdown="1">
 * Guides: [HTML Dog - CSS](http://www.htmldog.com/guides/css/)

@@ -76,3 +76,8 @@ tbody tr:nth-child(odd) td,
 tbody tr:nth-child(odd) th {
   background-color: #f9f9f9;
 }
+
+tbody tr:nth-child(even) td,
+tbody tr:nth-child(even) th {
+  background-color: #e8e4e4;
+}

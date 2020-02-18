@@ -5,7 +5,7 @@
 
 .page,
 .post {
-  margin-bottom: 1.5em;
+  margin-bottom: 60px;
 }
 
 // Blog post or page title
@@ -291,14 +291,14 @@ figure {
 
 img.flag,
 img.site {
-  display: block; 
+  display: block;
   width: 75%;
   margin: 10px auto 50px auto;
   border-radius: 0;
 }
 
 img.flag {
-  margin-bottom: 3rem; 
+  margin-bottom: 3rem;
 }
 
 .section dl {
@@ -337,7 +337,7 @@ table.inset {
 }
 
 table.sized {
-  
+
   font-size: 1rem;
   line-height: 1.4rem;
 
