@@ -9,9 +9,19 @@ description: MM1 BraceYourself Multimedia 1
 >
 > &mdash; <cite>Kurt Vonnegut</cite>
 
-[Register your blog](http://goo.gl/forms/VvWYAZiFnB)
+<!-- [Register your blog](http://goo.gl/forms/VvWYAZiFnB) -->
 
-## [Daily Blog Post](/mm1/daily-blog-post)
+
+[Today's Activity](today)
+
+## Audio
+
+### Resources
+
+* [Audioblocks](https://www.audioblocks.com/)
+* [Reaper Videos](http://reaper.fm/videos.php)
+
+<!-- ## [Daily Blog Post](/mm1/daily-blog-post)
 
 ## Web Design
 
@@ -20,7 +30,7 @@ description: MM1 BraceYourself Multimedia 1
 Create a site for your Top Ten Movies. Each movie needs:
 
 * A Heading (title of the movie)
-* 3 Images 
+* 3 Images
   * The movie poster
   * A scene from the movie
   * A picture of the actor that played the main character
@@ -32,7 +42,7 @@ Create a site for your Top Ten Movies. Each movie needs:
 
 [HTML Dog](http://www.htmldog.com/guides/html/)
 
-[Hex Colors](http://www.color-hex.com/)
+[Hex Colors](http://www.color-hex.com/) -->
 
 
 
@@ -56,19 +66,19 @@ Download the [course overview](https://drive.google.com/a/dcsdk12.org/file/d/0B2
 [Textures](http://bit.ly/et-free-watercolor-textures)
 -->
 
-## Photoshop
+<!-- ## Photoshop
 
 [Clone Stamp Tool Introduction Video](https://www.youtube.com/watch?v=BChwzIslDJg)
 
 [Clone Stamp Practice Video](https://www.youtube.com/watch?v=aflmzPenUII)
-[Clone Stamp Practice Files](http://bit.ly/2o1Z1kL)
+[Clone Stamp Practice Files](http://bit.ly/2o1Z1kL) -->
 
 <!--## Photoshop
-  
+
 Sign up for [this free Udemy Photoshop Class](http://www.udemy.com/learn-adobe-photoshop-from-scratch). Pick one of these **2 paths**:
 
 <div class="section" markdown="1">
-  
+
 <div class="section-title">I'm a Photoshop Newb</div>
 <div class="section" markdown="1">
 * Start on **Section 2: Lecture 4 -> Layers, Blending**
@@ -86,8 +96,8 @@ Sign up for [this free Udemy Photoshop Class](http://www.udemy.com/learn-adobe-p
 
 </div>-->
 
-## [Projects](/mm1/projects)
+<!-- ## [Projects](/mm1/projects)
 
 ## [Rotation Wrap Up Blog Post](/mm1/rotation-blog-post)
 
-## [Final Project](/mm1/final)
+## [Final Project](/mm1/final) -->

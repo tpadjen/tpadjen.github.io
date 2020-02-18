@@ -8,14 +8,68 @@ description: MM1 Today's Activity
 <h2>Activity <span id="date"></span></h2>
 <script src="/public/js/today.js"></script>
 
-## Web Design
+## Audio
+
+### Turn In - Song
+
+Finish the song you started last week in Reaper.
+
+To turn it in, create a folder in your `Turn In` folder in drive and name it `Song`.
+The folder should contain the following (and nothing else) for full credit.
+
+<table class="sized">
+  <tr>
+    <td><code>song.wav</code></td>
+    <td>Your exported, working audio file.</td>
+  </tr>
+  <tr>
+    <td><code>song.html</code></td>
+    <td>A small website with the information listed below</td>
+  </tr>
+  <tr>
+    <td><code>images folder</code></td>
+    <td>The images for <code>song.html</code> should go here</td>
+  </tr>
+</table>
+
+#### song.html
+
+To show your understanding of music creation in Reaper, add the following to `song.html`:
+
+* Use the snipping tool to take three screenshots of Reaper during the important steps in the song creation process.
+* Caption each screenshot with a description of what is going on and why.
+* Make a list of three crucial vocabulary words that you learned while creating, and their definitions.
+* Answer the following questions:
+  1. What did you like about the process? What did you dislike?
+  2. What advice would you give to someone who is just starting how to use Reaper to create music?
+
+### Final Project - Jingle [Small Groups]
+
+You have been hired by a new local restaurant to promote their business. You have a couple of goals:
+
+* Create a catchy name for the restaurant. They serve a mix of popular dishes from different cultures.
+* Write a memorable slogan, a short phrase that expresses the main idea of the business.
+* Design a 30 second radio commercial promoting the restaurant. The commercial must include ALL of the following:
+  * Music you created in Reaper. You must use at least one midi instrument.
+  * Sound effects from both [Audioblocks](https://www.audioblocks.com/) and recorded by you. Edit the audio in some way using Audacity.
+  * Narration written and recorded by your group.
+  * It is intended to appeal to people your age.
+
+**Rules**
+
+* All content in the ad must be your original idea and work (besides using Audioblocks clips). You may not use real business names, slogans, or professional music in your project.
+* Every person in the group should be assigned a specific major role in creating the project. Write down the responsibilities before starting.
+* All recording outside of the classroom requires a detailed, written description of the audio to be recorded and approval by the instructor.
+* Document the process of creation by taking occassional screenshots of your progress at important steps.
+
+<!-- ## Web Design
 
 ### Week 1 Project
 
 Create a site for your Top Ten Movies. Each movie needs:
 
 * A Heading (title of the movie)
-* 3 Images 
+* 3 Images
   * The movie poster
   * A scene from the movie
   * A picture of the actor that played the main character
@@ -27,7 +81,7 @@ Create a site for your Top Ten Movies. Each movie needs:
 
 [HTML Dog](http://www.htmldog.com/guides/html/)
 
-[Hex Colors](http://www.color-hex.com/)
+[Hex Colors](http://www.color-hex.com/) -->
 
 <!-- Complete all Photoshop assignments by the end of the week:
 
@@ -36,7 +90,7 @@ Create a site for your Top Ten Movies. Each movie needs:
 * Project 2 - Travel Advertisements
 * Project 3 - Superhero Team
 
-Put the exported pictures and your Photoshop files in appropriate folders on Google Drive to turn them in. 
+Put the exported pictures and your Photoshop files in appropriate folders on Google Drive to turn them in.
 
 
 ### Project 1 - Wish Week Posters
@@ -113,7 +167,7 @@ Things to remember:
 * Film in landscape.
 * Try not to mix phones, each has a different camera that will give a different look
 * Every scene needs to be filmed from at least 3 angles.
-* Start recording, count down with fingers while saying "3, 2". Don't say one, but point or nod at the actors to start action. 
+* Start recording, count down with fingers while saying "3, 2". Don't say one, but point or nod at the actors to start action.
 * Do not stop recording immediately when action is done, keep it on for a couple of seconds. This will allow for better transitions later.
 * Multiple takes are important. Get the scene right, not just done.
 
