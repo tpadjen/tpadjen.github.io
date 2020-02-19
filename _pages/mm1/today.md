@@ -62,6 +62,15 @@ You have been hired by a new local restaurant to promote their business. You hav
 * All recording outside of the classroom requires a detailed, written description of the audio to be recorded and approval by the instructor.
 * Document the process of creation by taking occassional screenshots of your progress at important steps.
 
+## Illustrator
+
+After finishing and turning in your audio projects, you should watch the following videos on Adobe Illustrator. While watching, follow along and create the same product as the video.
+
+* [Illustrator for Beginners 1](https://www.youtube.com/watch?v=b7O-dp0L_Qo)
+* [Illustrator for Beginners 2](https://www.youtube.com/watch?v=g2hAwxWJ8SI)
+* [Illustrator for Beginners 3](https://www.youtube.com/watch?v=TuGsO2of6N4)
+* [Top 5 Illustrator Tools You Should Know](https://www.youtube.com/watch?v=XnJByIkcUS0)
+
 <!-- ## Web Design
 
 ### Week 1 Project

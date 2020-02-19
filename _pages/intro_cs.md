@@ -9,7 +9,7 @@ description: Intro CS BraceYourself Computer Science
 >
 > &mdash; <cite>Pablo Picasso</cite>
 
-
+[Today's Activity](today)
 
 ## Collision
 

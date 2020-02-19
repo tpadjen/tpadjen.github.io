@@ -8,7 +8,9 @@ description: AP CS Today's Activity
 <h2>Activity <span id="date"></span></h2>
 <script src="/public/js/today.js"></script>
 
-<table class="sized">
+`PixLab`
+
+<!-- <table class="sized">
   <tr>
     <td><code>Magpie</code></td>
     <td>1-4</td>
@@ -21,7 +23,7 @@ description: AP CS Today's Activity
     <td><code>Part 7</code></td>
     <td>Arrays</td>
   </tr>
-</table>
+</table> -->
 
 <!-- ## Pets
 

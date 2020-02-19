@@ -8,7 +8,9 @@ description: Web Design
 > Give a person a fish and you feed them for a day; teach that person to use the Internet and they won't bother you for weeks.
 
 
-## Assignments
+[Today's Activity](today)
+
+<!--## Assignments
 
 <div class="section" markdown="1">
 
@@ -65,6 +67,6 @@ description: Web Design
 <div class="section" markdown="1">
   * [Video Lessons](https://www.youtube.com/watch?v=Qi9ooZcBBWg&list=PL2E6EED8E1A69F2A5)
 </div>
-<-->
+<-
 
-</div>
+</div>-->

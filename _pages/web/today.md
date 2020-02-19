@@ -7,8 +7,11 @@ description: Web Design Today's Activity
 
 <h2>Activity <span id="date"></span></h2>
 
+[Codecademy Javascript Course](https://www.codecademy.com/learn/introduction-to-javascript)
 
-Create the desktop version of your spotify clone using media queries. 
+<!--
+
+Create the desktop version of your spotify clone using media queries.
 
 ##### Media Query
 ```css
