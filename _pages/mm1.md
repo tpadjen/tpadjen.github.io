@@ -56,15 +56,14 @@ Create a site for your Top Ten Movies. Each movie needs:
 * [Audioblocks](https://www.audioblocks.com/authorize)
 * [Youtube Music Library](http://www.youtube.com/audiolibrary/music)-->
 
-<!--## Illustrator
+## Illustrator
 
-Download the [course overview](https://drive.google.com/a/dcsdk12.org/file/d/0B2E_0TgQPuOYbkEzTFVheVA2Mjg/view?usp=sharing) and the [course project folder](https://drive.google.com/a/dcsdk12.org/file/d/0B2E_0TgQPuOYenBpek90UTZueWc/view?usp=sharing).-->
+<!--Download the [course overview](https://drive.google.com/a/dcsdk12.org/file/d/0B2E_0TgQPuOYbkEzTFVheVA2Mjg/view?usp=sharing) and the [course project folder](https://drive.google.com/a/dcsdk12.org/file/d/0B2E_0TgQPuOYenBpek90UTZueWc/view?usp=sharing).-->
 
-<!-- ### Watercolor Popsicle
-[Video](https://www.youtube.com/watch?v=M7LHzwuEX-0)
+### Watercolor Popsicle
+[Popsicle Video](https://www.youtube.com/watch?v=M7LHzwuEX-0)
 
-[Textures](http://bit.ly/et-free-watercolor-textures)
--->
+<!--[Textures](http://bit.ly/et-free-watercolor-textures)-->
 
 <!-- ## Photoshop
 
