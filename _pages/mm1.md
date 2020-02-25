@@ -63,6 +63,8 @@ Create a site for your Top Ten Movies. Each movie needs:
 ### Watercolor Popsicle
 [Popsicle Video](https://www.youtube.com/watch?v=M7LHzwuEX-0)
 
+[Other Vector Drawing Videos](https://bit.ly/mvhs-web-vectors)
+
 <!--[Textures](http://bit.ly/et-free-watercolor-textures)-->
 
 <!-- ## Photoshop
